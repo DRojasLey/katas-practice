@@ -9,7 +9,7 @@ Simple repository to complete Katas in Codewars
 
 | Name               | file          | time  | status | link                      |
 |--------------------|---------------|-------|--------|---------------------------|
-|Multiples of 3 or 5 | kata-first.js | 45 min| Pass   | https://shorturl.at/0tkiT |
+|Multiples of 3 or 5 | [kata-first.js](katas/kata-first.js) | 45 min| Pass   | https://shorturl.at/0tkiT |
 | | | | | |
 
 
