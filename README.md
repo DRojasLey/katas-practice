@@ -1,7 +1,7 @@
 # Practice Katas Repository
 
 
-Simple repository to complete Katas
+Simple repository to complete Katas in Codewars
 
 ---
 
@@ -13,3 +13,5 @@ Simple repository to complete Katas
 | | | | | |
 
 
+
+>Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
