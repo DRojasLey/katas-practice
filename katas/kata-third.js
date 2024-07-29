@@ -5,6 +5,8 @@ We will consider a, e, i, o, u as vowels for this Kata (but not y).
 
 The input string will only consist of lower case letters and/or spaces. */
 
+/* My Solution without help: 
+ This was tested and works*/
 
 function getCount(str) {
     //for each character in the string 
@@ -30,4 +32,21 @@ describe("Vowels Count Tests",function(){
   });
 });
 
+*/
+
+
+/*Solution reached with help of Daniel, OFC also works:
+function getCount(str) {
+    //for each character in the string 
+    let vowelCounter = 0;
+    const vowels = ['a','e','i','o','u'];
+    
+    for (let numOfLetters = 0;  numOfLetters <= str.length ; numOfLetters++){
+     if (vowels.includes(str[numOfLetters])){
+        vowelCounter++;
+     }
+    }
+    return vowelCounter;
+
+  }
 */
