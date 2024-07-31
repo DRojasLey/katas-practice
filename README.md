@@ -13,7 +13,7 @@ Simple repository to complete Katas in Codewars
 |Stop gninnipS My sdroW! | [kata-second.js](katas/kata-second.js) | 80 min | failed | https://shorturl.at/f2fx3 |
 |Vowel Count | [kata-third.js](katas/kata-third.js) | 15 min | Pass | https://shorturl.at/RyenV |
 |Are You Playing Banjo? | [kata-fourth.js](katas/kata-fourth.js) | 10 min | Pass | https://shorturl.at/E3NXY |
-|Counting sheep... | [kata-fifth.js](katas/kata-fifth.js) | In progress | In progress | https://shorturl.at/hF5hY |
+|Counting sheep... | [kata-fifth.js](katas/kata-fifth.js) | 5 min | Pass | https://shorturl.at/hF5hY |
 
 
 

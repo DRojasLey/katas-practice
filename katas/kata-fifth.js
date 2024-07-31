@@ -14,7 +14,13 @@ Hint: Don't forget to check for bad values like null/undefined */
 
 
 function countSheeps(sheep) {
-    // TODO
+    let counter = 0;
+    sheep.forEach(element => {
+        if (element == true){
+            counter++;
+        } 
+    });
+    return counter;
   }
 
 
