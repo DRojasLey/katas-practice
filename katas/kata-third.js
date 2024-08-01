@@ -21,32 +21,32 @@ function getCount(str) {
 }
 
 
-
-/* Test:
+/*
+Test:
 
 const {assert} = require("chai");
 
 describe("Vowels Count Tests",function(){
-it("should return 5 for 'abracadabra'",function(){
-assert.strictEqual(getCount("abracadabra"), 5) ;
-});
+  it("should return 5 for 'abracadabra'",function(){
+    assert.strictEqual(getCount("abracadabra"), 5) ;
+  });
 });
 
 */
 
-
-/*Solution reached with help of Daniel, OFC also works:
+/*
+Solution reached with help of Daniel, OFC also works:
 function getCount(str) {
-//for each character in the string 
-let vowelCounter = 0;
-const vowels = ['a','e','i','o','u'];
-
-for (let numOfLetters = 0;  numOfLetters <= str.length ; numOfLetters++){
-if (vowels.includes(str[numOfLetters])){
-vowelCounter++;
-}
-}
-return vowelCounter;
-
+  //for each character in the string 
+  let vowelCounter = 0;
+  const vowels = ['a','e','i','o','u'];
+  
+  for (let numOfLetters = 0;  numOfLetters <= str.length ; numOfLetters++){
+    if (vowels.includes(str[numOfLetters])){
+      vowelCounter++;
+    }
+  }
+  return vowelCounter;
+  
 }
 */

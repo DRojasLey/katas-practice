@@ -37,18 +37,18 @@ function solution(number){
     
   }
 }
-
-/* Sample test:
+/*
+Sample test:
 const { assert } = require("chai")
 
 function test(n, expected) {
-it(`n=${n}`, () => {  
-  let actual = solution(n)
-assert.strictEqual(actual, expected)
-})
+  it(`n=${n}`, () => {  
+    let actual = solution(n)
+    assert.strictEqual(actual, expected)
+  })
 }
 
 describe("basic tests", function(){
-test(10,23)
+  test(10,23)
 })
 */
