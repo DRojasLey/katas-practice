@@ -1,20 +1,20 @@
 function spinWords(string) {
   const splittedWords = string.split(' ')
   
-//<reduce>
-//   const resultArray = splittedWords.reduce((acc, word) => {
-//     let relevantWord = word
-    
-//     if (word.length >= 5) {
-//       relevantWord = word.split('').reverse().join('')
-//     }
-
-//     acc.push(relevantWord)
-//     return acc
-//   }, [])
-//</reduce>
+  //<reduce>
+  //   const resultArray = splittedWords.reduce((acc, word) => {
+    //     let relevantWord = word
   
-//<forEach>
+  //     if (word.length >= 5) {
+  //       relevantWord = word.split('').reverse().join('')
+  //     }
+  
+  //     acc.push(relevantWord)
+  //     return acc
+  //   }, [])
+  //</reduce>
+  
+  //<forEach>
   let resultArray = []
   
   splittedWords.forEach(word => {
@@ -24,7 +24,7 @@ function spinWords(string) {
       resultArray.push(word)
     }
   })
-//</forEach>
+  //</forEach>
   
   return resultArray.join(' ')
 }

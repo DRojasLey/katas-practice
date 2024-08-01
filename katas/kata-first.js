@@ -23,10 +23,10 @@ function solution(number){
     do {
       //check if the number is a multiple of 3 and 5 with modulo
       if (myCounter%3 === 0 && myCounter%5 === 0){
-      //if it is, add the number to sum
-      sum += myCounter;
+        //if it is, add the number to sum
+        sum += myCounter;
       } else if (myCounter%3 === 0 || myCounter%5 === 0 ){  //<<<<------check if the number is multiple of 3 or 5 with modulo
-      //if it is multiple of any of those two options we will add it to the sum variable
+        //if it is multiple of any of those two options we will add it to the sum variable
         sum += myCounter
       }
       //if none of the above cases apply we should then only increase the number value to iterate the next loop 
@@ -42,13 +42,13 @@ function solution(number){
 const { assert } = require("chai")
 
 function test(n, expected) {
-  it(`n=${n}`, () => {  
-    let actual = solution(n)
-    assert.strictEqual(actual, expected)
-  })
+it(`n=${n}`, () => {  
+  let actual = solution(n)
+assert.strictEqual(actual, expected)
+})
 }
 
 describe("basic tests", function(){
-  test(10,23)
+test(10,23)
 })
 */

@@ -6,30 +6,30 @@ We will consider a, e, i, o, u as vowels for this Kata (but not y).
 The input string will only consist of lower case letters and/or spaces. */
 
 /* My Solution without help: 
- This was tested and works*/
+This was tested and works*/
 
 function getCount(str) {
-    //for each character in the string 
-    let vowelCounter = 0;
-    for (let numOfLetters = 0;  numOfLetters <= str.length ; numOfLetters++){
-     if (str[numOfLetters] === 'a' || str[numOfLetters] === 'e' || str[numOfLetters] === 'i' || str[numOfLetters] === 'o' || str[numOfLetters] === 'u'){
-        vowelCounter++
-     }
+  //for each character in the string 
+  let vowelCounter = 0;
+  for (let numOfLetters = 0;  numOfLetters <= str.length ; numOfLetters++){
+    if (str[numOfLetters] === 'a' || str[numOfLetters] === 'e' || str[numOfLetters] === 'i' || str[numOfLetters] === 'o' || str[numOfLetters] === 'u'){
+      vowelCounter++
     }
-    return vowelCounter;
-
   }
+  return vowelCounter;
+  
+}
 
 
 
-  /* Test:
+/* Test:
 
-  const {assert} = require("chai");
+const {assert} = require("chai");
 
 describe("Vowels Count Tests",function(){
-  it("should return 5 for 'abracadabra'",function(){
-    assert.strictEqual(getCount("abracadabra"), 5) ;
-  });
+it("should return 5 for 'abracadabra'",function(){
+assert.strictEqual(getCount("abracadabra"), 5) ;
+});
 });
 
 */
@@ -37,16 +37,16 @@ describe("Vowels Count Tests",function(){
 
 /*Solution reached with help of Daniel, OFC also works:
 function getCount(str) {
-    //for each character in the string 
-    let vowelCounter = 0;
-    const vowels = ['a','e','i','o','u'];
-    
-    for (let numOfLetters = 0;  numOfLetters <= str.length ; numOfLetters++){
-     if (vowels.includes(str[numOfLetters])){
-        vowelCounter++;
-     }
-    }
-    return vowelCounter;
+//for each character in the string 
+let vowelCounter = 0;
+const vowels = ['a','e','i','o','u'];
 
-  }
+for (let numOfLetters = 0;  numOfLetters <= str.length ; numOfLetters++){
+if (vowels.includes(str[numOfLetters])){
+vowelCounter++;
+}
+}
+return vowelCounter;
+
+}
 */

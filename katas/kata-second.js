@@ -11,8 +11,8 @@
 
 function spinWords(string){
   //TODO)
-   //declaring reverse string helper function
-   const reverseString = (str) => {
+  //declaring reverse string helper function
+  const reverseString = (str) => {
     return str.split("").reverse().join("");
   }  
   //We must take the string and check for spaces that would give us the separation of words and then put them in an array
@@ -22,7 +22,7 @@ function spinWords(string){
   
   //if we get a single element in the array we apply a simplified lenght check
   if (onlyWords.length === 1){
-   
+    
     if (onlyWords[0].length >= 5){
       //if the string.length > 5 then we reverse the string and return the string
       //reverse the string
@@ -36,16 +36,16 @@ function spinWords(string){
       return onlyWords;
     }
   } else {
-  /*if we get more than 1 word we proceed with further checks
-   count the number of letters for each element in the array */
-   onlyWords = onlyWords.map((x) => {  //<< we apply to each array element (x) the following code
-     if (x.length >= 5){ //<<< if the length of the element is equal or greater than 5 we use the reverse function
-      reverseString(x);
-    }
-   });
+    /*if we get more than 1 word we proceed with further checks
+    count the number of letters for each element in the array */
+    onlyWords = onlyWords.map((x) => {  //<< we apply to each array element (x) the following code
+      if (x.length >= 5){ //<<< if the length of the element is equal or greater than 5 we use the reverse function
+        reverseString(x);
+      }
+    });
     // at this point onlyWords is an array that contains any word with more than 5 letters reversed we should then convert the array back to a string, 
     return onlyWords.join();
-     console.log(onlyWords.join());
+    console.log(onlyWords.join());
     // finally we return the string
   }
 }
