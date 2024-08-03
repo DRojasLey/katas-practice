@@ -15,6 +15,8 @@ Simple repository to complete Katas in Codewars
 |Are You Playing Banjo? | [kata-fourth.js](katas/kata-fourth.js) | 10 min | Pass | https://shorturl.at/E3NXY |
 |Counting sheep... | [kata-fifth.js](katas/kata-fifth.js) | 5 min | Pass | https://shorturl.at/hF5hY |
 |Keep Hydrated! | [kata-sixth.js](katas/kata-sixth.js) | 3 min | Pass | https://shorturl.at/Lylf9 |
+|A Needle in the Haystack | [kata-seventh.js](katas/kata-seventh.js) | 10 min  | Pass | https://shorturl.at/aUOmI |
+|Does my number look big in this? | [kata-eighth.js](katas/kata-eighth.js) | 30 mins  | Pass | https://shorturl.at/8OcxZ |
 
 
 
