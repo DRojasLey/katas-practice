@@ -21,7 +21,7 @@
 
 function narcissistic(value) {
     let numberAsArray = value.toString().split(''); // we convert it into a string to then separate each element to an element on an array
-    let elevatedArray = numberAsArray.map((x) => (+x)** numberAsArray.length); // we elevate each number in each element to the length of the array
+    let elevatedArray = numberAsArray.map((x) => (+x)** numberAsArray.length); // we elevate each number in each element to the length of the array (we added the unary for consistency)
     let sumOfNumber = 0; // initialize the sum variable
     elevatedArray.forEach( num =>{ sumOfNumber += num}) // we sum the elements to get the final comparation
     if (sumOfNumber === value){ return true} else { return false}; //we check if the result is equal to the given number, if so the number is narcissistic
