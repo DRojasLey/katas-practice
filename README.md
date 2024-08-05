@@ -18,6 +18,7 @@ Simple repository to complete Katas in Codewars
 |A Needle in the Haystack | [kata-seventh.js](katas/kata-seventh.js) | 10 min  | Pass | https://shorturl.at/aUOmI |
 |Does my number look big in this? | [kata-eighth.js](katas/kata-eighth.js) | 30 mins  | Pass | https://shorturl.at/8OcxZ |
 |Disemvowel Trolls | [kata-ninth.js](katas/kata-ninth.js) | 15 min  | Pass | https://shorturl.at/CtVA5|
+|Sum of two lowest positive integers | [kata-tenth.js](katas/kata-tenth.js) | in progress  | in progress | https://shorturl.at/CtVA5|
 
 
 
