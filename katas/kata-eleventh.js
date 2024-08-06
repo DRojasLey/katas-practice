@@ -17,6 +17,7 @@
 // Have fun!
 
 
+// INITIALLY SUBMITTED CODE
 function oddOrEven(array) {
     const even = 'even';
     const odd = 'odd';
@@ -29,6 +30,32 @@ function oddOrEven(array) {
     }
 
 }
+
+
+/*Notes:
+
+Within the kata solutions the first one is:
+*/
+function oddOrEven(arr) {
+    return arr.reduce((a,b)=>a+b,0) % 2 ? 'odd' : 'even';
+  }
+
+/*
+This made me notice that my code has an unnecesary if for the event of empty arrays so it can be rewritten;
+ like this, by adding an initial value for the reduce method:
+*/
+
+
+function oddOrEven(array) {
+    const accm = 0;
+    const sumTheArray = array.reduce((accm, currVal) => accm + currVal, 0); // by adding this 0 at the end as initial value we make sure the empty arrays always get 0 and then the modulo will do the rest
+    return sumTheArray%2 === 0 ? 'even' : 'odd';
+}
+
+
+
+
+
 
 
 // Tests:
