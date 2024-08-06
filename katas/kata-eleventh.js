@@ -47,9 +47,9 @@ This made me notice that my code has an unnecesary if for the event of empty arr
 
 
 function oddOrEven(array) {
-    const accm = 0;
-    const sumTheArray = array.reduce((accm, currVal) => accm + currVal, 0); // by adding this 0 at the end as initial value we make sure the empty arrays always get 0 and then the modulo will do the rest
-    return sumTheArray%2 === 0 ? 'even' : 'odd';
+    const initialZero = 0; // the previou version of this was completely and utterly unnecessary not even used correctly so updated to be the initial value
+    const sumTheArray = array.reduce((accm, currVal) => accm + currVal, initialZero); // by adding this 0 at the end as initial value we make sure the empty arrays always get 0 and then the modulo will do the rest
+    return sumTheArray%2 === 0 ? 'even' : 'odd'; // even here the modulo check agaisnt === 0 is unnecessary as 0 (no residue therefore even) would evaluate to false whilst any other number would evaluate to true meaning it is odd
 }
 
 
