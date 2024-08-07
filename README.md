@@ -20,10 +20,7 @@ Simple repository to complete Katas in Codewars
 |Disemvowel Trolls | [kata-ninth.js](katas/kata-ninth.js) | 15 min  | Pass | https://shorturl.at/CtVA5|
 |Sum of two lowest positive integers | [kata-tenth.js](katas/kata-tenth.js) | 20 min  | Pass | https://shorturl.at/CtVA5|
 |Odd or Even? | [kata-eleventh.js](katas/kata-eleventh.js) | 30 min  | Pass | https://shorturl.at/5emBs|
-
-
-
-
+|Split Strings | [kata-twelfth.js](katas/kata-twelfth.js) | In progress  | In progress | https://shorturl.at/jRPmE|
 
 
 
