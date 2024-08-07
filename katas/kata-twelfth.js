@@ -27,7 +27,7 @@ function solution(str){
     // this function declaration is so unnecesary it hurts me, but I was running out of time so I did't feel like simplifying
     const concatenationFunction = (passedStr) => {
         while (processStr.length != 0){
-            for (i = 0; i< 2; i++){
+            for (i = 0; i< 2; i++){                                             // we run this two times to take the first 2
                 temporaryString = temporaryString.concat(processStr.shift());
                 console.log(temporaryString);
             }
@@ -41,6 +41,27 @@ function solution(str){
     return resultArray;
 
 }
+
+
+// First Solution on the code is just so different :v
+
+function solution(s){
+   return (s+"_").match(/.{2}/g)||[]
+}
+
+/*
+Apparently the regex will do everything for you:
+/ stars the pattern
+. (dot): Matches any single character except newline characters.
+{2}: Matches exactly two of the preceding token (in this case, any character).
+/g: The global flag, which means it will find all matches in the string, not just the first one.
+
+And then by grace of Turing himself .match will take any sequence matching and return it as an array, and also will add the elements directly 
+
+The regular expression /.{2}/g matches any sequence of two characters within a string. It will find all occurrences of these two-character sequences and return them as an array.
+
+The lesson here is: I need to learn REGEX?
+*/
 
 
 
