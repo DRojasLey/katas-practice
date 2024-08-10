@@ -38,15 +38,30 @@ describe("Create Phone Number", () => {
 
 ## Interesting voted solution
 
-#### By *Somebody name goes here*
+#### By *[Madstorm](https://www.codewars.com/users/madstorm)*
 
 ```js
-Here comes the js code of the interesting solution
+function createPhoneNumber(numbers){
+  var format = "(xxx) xxx-xxxx"; // this is the data we will return so it is defined as a string
+  
+  for(var i = 0; i < numbers.length; i++) // standard loop
+  {
+    format = format.replace('x', numbers[i]); // with this piece of code I learnt this new string method, very useful
+  }
+  
+  return format;
+}
+
 ```
 
 ## Notes
 
 
-Here come my notes
+My solution is the worst, overengineered piece of code, just because I wanted to practice more with reduce, scopes and for loops.
+
+At the end I'm pretty sure it was unnecessary, but  I learned a lot by making this abomination and it was fun playing with the methods used, so enjoy.
+
+
+
 
 ---
