@@ -27,7 +27,7 @@ New format katas
 
 | Date | Name | Level | Solution | Notes | Time | Status | Link |
 |--|--|--|--|--|--|--|--|
-| 09 Aug 2024 | Create Phone Number | 6 Kyu | [14-kata.js](./katas/14-kata/14-kata.js) | [14-kata.md](./katas/14-kata/14-kata.md) | In progress | In progress | https://shorturl.at/hYy47 |
+| 09 Aug 2024 | Create Phone Number | 6 Kyu | [14-kata.js](./katas/14-kata/14-kata.js) | [14-kata.md](./katas/14-kata/14-kata.md) | 30 min | Pass | https://shorturl.at/hYy47 |
 
 
 
