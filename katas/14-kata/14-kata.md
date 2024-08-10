@@ -1,5 +1,7 @@
 # 14th Kata -- Create Phone Number
 
+by *[xDranik](https://www.codewars.com/users/xDranik)*
+
 
 ## Task
 
@@ -34,7 +36,7 @@ describe("Create Phone Number", () => {
 });
 ```
 
-## Interesting voted solucion
+## Interesting voted solution
 
 #### By *Somebody name goes here*
 
