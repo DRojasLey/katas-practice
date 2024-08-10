@@ -23,6 +23,12 @@ Simple repository to complete Katas in Codewars
 |Split Strings | [kata-twelfth.js](katas/kata-twelfth.js) | 40 min  | Pass | https://shorturl.at/jRPmE|
 |Opposites Attract | [kata-thirteenth.js](katas/kata-thirteenth.js) | 10 min  | Pass | https://shorturl.at/WMQAs|
 
+New format katas
+
+| Date | Name | Level | Solution | Notes | Time | Status | Link |
+|--|--|--|--|--|--|--|--|
+| 09 Aug 2024 | Create Phone Number | 6 Kyu | [14-kata.js](./katas/14-kata/14-kata.js) | [14-kata.md](./katas/14-kata/14-kata.md) | In progress | In progress | https://shorturl.at/hYy47 |
+
 
 
 
