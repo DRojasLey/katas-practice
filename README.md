@@ -28,6 +28,8 @@ New format katas
 | Date | Name | Level | Solution | Notes | Time | Status | Link |
 |--|--|--|--|--|--|--|--|
 | 09 Aug 2024 | Create Phone Number | 6 Kyu | [14-kata.js](./katas/14-kata/14-kata.js) | [14-kata.md](./katas/14-kata/14-kata.md) | 30 min | Pass | https://shorturl.at/hYy47 |
+| 10 Aug 2024 | Build Tower | 6 Kyu | [15-kata.js](./katas/15-kata/15-kata.js) | [15-kata.md](./katas/15-kata/15-kata.md) | 20 min | Pass | https://shorturl.at/VF19q |
+
 
 
 
