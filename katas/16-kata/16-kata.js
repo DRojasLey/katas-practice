@@ -29,7 +29,7 @@ function expandedForm(num) {
     let processor = numArray.reduce((newString, currElement, index) =>{
         const arrLength = numArray.length-1;
         let toAdd = '';
-       if (currElement === numArray[0]){
+       if (index === 0){
             toAdd = currElement + ('0'.repeat(arrLength-index));
             newString += toAdd;
         } else {
