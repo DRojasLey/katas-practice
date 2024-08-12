@@ -29,7 +29,7 @@ New format katas
 |--|--|--|--|--|--|--|--|
 | 09 Aug 2024 | Create Phone Number | 6 Kyu | [14-kata.js](./katas/14-kata/14-kata.js) | [14-kata.md](./katas/14-kata/14-kata.md) | 30 min | Pass | https://shorturl.at/hYy47 |
 | 10 Aug 2024 | Build Tower | 6 Kyu | [15-kata.js](./katas/15-kata/15-kata.js) | [15-kata.md](./katas/15-kata/15-kata.md) | 20 min | Pass | https://shorturl.at/VF19q |
-| 11 Aug 2024 | Write Number in Expanded Form | 6 Kyu | [16-kata.js](./katas/16-kata/16-kata.js) | [16-kata.md](./katas/16-kata/16-kata.md) | 4:20 hrs | failed (then passed) | https://shorturl.at/IGC0D |
+| 11 Aug 2024 | Write Number in Expanded Form | 6 Kyu | [16-kata.js](./katas/16-kata/16-kata.js) | [16-kata.md](./katas/16-kata/16-kata.md) | 4:20 hrs | Pass| https://shorturl.at/IGC0D |
 
 
 
