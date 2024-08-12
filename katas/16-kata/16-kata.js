@@ -25,23 +25,23 @@
 
 
 function expandedForm(num) {
-    let numArray = num.toString().split('');
+    let numArray = num.toString().split(''); 
     let processor = numArray.reduce((newString, currElement, index) =>{
         const arrLength = numArray.length-1;
-        let toAdd = '';
-       if (index === 0){
-            toAdd = currElement + ('0'.repeat(arrLength-index));
+        let toAdd = ''; 
+       if (index === 0){ 
+            toAdd = currElement + ('0'.repeat(arrLength-index)); 
             newString += toAdd;
         } else {
-            if (currElement != 0){
-                toAdd = toAdd + ' + ' + currElement + ('0'.repeat(arrLength-index));
+            if (currElement != 0){ 
+                toAdd = toAdd + ' + ' + currElement + ('0'.repeat(arrLength-index)); 
                 newString += toAdd;
             } else {
                 toAdd = toAdd += '';
                 newString += toAdd;
             }
        }
-       return newString;
+       return newString; 
     },'');
-    return processor
+    return processor 
 };

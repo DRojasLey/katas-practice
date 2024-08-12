@@ -43,6 +43,31 @@ describe("Tests", () => {
 
 Finally able to complete the kata, I had to rethink all I was doing initially and manually evaluate all cases to find a solution, once I identified the issue (evaluating the value of the first index vs the current element, instead of checking if it was the first element of the array directly with the index parameter) I was able to find a solution.
 
+## My solution with comments:
+
+```js
+function expandedForm(num) {
+    let numArray = num.toString().split(''); // we make it an array
+    let processor = numArray.reduce((newString, currElement, index) =>{
+        const arrLength = numArray.length-1; // I don't want to calculate this value innecesarily on each element
+        let toAdd = ''; // I want to concatenate directly to the string
+       if (index === 0){ // check if it is the first element
+            toAdd = currElement + ('0'.repeat(arrLength-index)); // concatenate the first element with enoungh 0's
+            newString += toAdd;
+        } else {
+            if (currElement != 0){ // this will execute if it is not the first element
+                toAdd = toAdd + ' + ' + currElement + ('0'.repeat(arrLength-index)); //we concatenate the + and the number + the zeroes ( This could have been done with join '')
+                newString += toAdd;
+            } else {
+                toAdd = toAdd += ''; //we do not concatenate for the 0 value, this could have been done with filter()
+                newString += toAdd;
+            }
+       }
+       return newString; // always return the accumulator for reduce
+    },'');
+    return processor // we return the completed string
+```
+
 
 ## Results 1
 
