@@ -31,8 +31,8 @@ New format katas
 | 10 Aug 2024 | Build Tower | 6 Kyu | [15-kata.js](./katas/15-kata/15-kata.js) | [15-kata.md](./katas/15-kata/15-kata.md) | 20 min | Pass | https://shorturl.at/VF19q |
 | 11 Aug 2024 | Write Number in Expanded Form | 6 Kyu | [16-kata.js](./katas/16-kata/16-kata.js) | [16-kata.md](./katas/16-kata/16-kata.md) | 4:20 hrs | Pass| https://shorturl.at/IGC0D |
 | 12(3) Aug 2024 | Break camelCase | 6 Kyu | [17-kata.js](./katas/17-kata/17-kata.js) | [17-kata.md](./katas/17-kata/17-kata.md) | 30 min | Pass| https://shorturl.at/Jq4eF |
-| 13 Aug 2024 | Unique In Order | 6 Kyu | [18-kata.js](./katas/18-kata/18-kata.js) | [18-kata.md](./katas/18-kata/18-kata.md) | 20 min | Passed | https://shorturl.at/2YRk5 |
-| 14 Aug 2024 | What century is it? | 6 Kyu | [19-kata.js](./katas/19-kata/19-kata.js) | [19-kata.md](./katas/19-kata/19-kata.md) | 1:30 H | Pass | https://shorturl.at/xSKyE |
+| 13 Aug 2024 | Unique In Order | 6 Kyu | [18-kata.js](./katas/18-kata/18-kata.js) | [18-kata.md](./katas/18-kata/18-kata.md) | 20 min | Pass | https://shorturl.at/2YRk5 |
+| 14 Aug 2024 | What century is it? | 6 Kyu | [19-kata.js](./katas/19-kata/19-kata.js) | [19-kata.md](./katas/19-kata/19-kata.md) | 1:30 hrs | Pass | https://shorturl.at/xSKyE |
 
 
 
