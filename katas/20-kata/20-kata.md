@@ -47,10 +47,6 @@ All values are non-negative integers. The resulting sum of the worth for each si
 
 #### Output:
 Return "Battle Result: Good triumphs over Evil" if good wins, "Battle Result: Evil eradicates all trace of Good" if evil wins, or "Battle Result: No victor on this battle field" if it ends in a tie.
-```
-//code snippets here
-
-```
 
 
 ## Test Examples
@@ -74,14 +70,74 @@ describe("Sample tests", () => {
 
 ## Notes
 
-Notes here
+This one was easier than I was expecting, just repetitive and long the way I did it.
 
 ## My solution with comments:
 
 ```js
 
-//My code here
+function goodVsEvil(good, evil){
+    let goodA = good.split(' ').reduce((armyWorth, currentRace, index)=>{ //convert into array and initialize reduce
+        switch(index){
+            case 0:
+                armyWorth = armyWorth + +currentRace; // hobbitses 1 to 1
+                break;
+            case 1:
+                armyWorth = armyWorth + (+currentRace * 2); // men 1 to  2
+                break;
+            case 2:
+                armyWorth = armyWorth + (+currentRace * 3); // elf 1 to  3
+                break;
+            case 3:
+                armyWorth = armyWorth + (+currentRace * 3); // dwarves 1 to  3
+                break;
+            case 4:
+                armyWorth = armyWorth + (+currentRace * 4); // Eagles 1 to  4
+                break;
+            case 5:
+                armyWorth = armyWorth + (+currentRace * 10); // Wizards 1 to  10
+                break;
+        }
+        return armyWorth; // always return the reduce accumulator
 
+    }, 0);
+
+    let evilA = evil.split(' ').reduce((armyWorth, currentRace, index)=>{ //Now I see why my mentor said this kata was repetitive, and could use a function
+        switch(index){
+            case 0:
+                armyWorth = armyWorth + +currentRace; // orcs 1 to 1
+                break;
+            case 1:
+                armyWorth = armyWorth + (+currentRace * 2); // men 1 to  2
+                break;
+            case 2:
+                armyWorth = armyWorth + (+currentRace * 2); // wargs 1 to  2
+                break;
+            case 3:
+                armyWorth = armyWorth + (+currentRace * 2); // goblins 1 to  2
+                break;
+            case 4:
+                armyWorth = armyWorth + (+currentRace * 3); // Uruk Hai 1 to  3
+                break;
+            case 5:
+                armyWorth = armyWorth + (+currentRace * 5); // trolls 1 to  5
+                break;
+            case 6:
+                armyWorth = armyWorth + (+currentRace * 10); // Wizards 1 to  10
+                break;
+        }
+        return armyWorth;
+
+    }, 0);
+    //check for the result:
+    if(goodA > evilA){
+        return `Battle Result: Good triumphs over Evil`
+    } else if (goodA < evilA){
+        return `Battle Result: Evil eradicates all trace of Good`
+    } else{
+        return `Battle Result: No victor on this battle field`
+    };
+}
 ```
 
 
@@ -89,21 +145,42 @@ Notes here
 
 ```js
 
-//hpefully good results here
+Test Results:
+  Solution
+    Tie
+    Good wins
+    Evil wins
+Random tests
+Completed in 5ms
+You have passed all of the tests! :)
 
 ```
 
 ## Interesting Kata solution:
-> by *[somebody](https://example.com)*
+> by *[Firnis](https://www.codewars.com/users/Firnis)*
 
 ```js
 
-//interesting solution here
+function goodVsEvil(good, evil) {
+  var getWorth = function( side, worth ) {
+    return side.split(' ').reduce( function(result, value, index) {
+      return result + (worth[index] * value);
+    }, 0);
+  }
+
+  var result = getWorth( good, [1,2,3,3,4,10] ) - getWorth( evil, [1,2,2,2,3,5,10] );
+
+  return result > 0 ? "Battle Result: Good triumphs over Evil" :
+         result < 0 ? "Battle Result: Evil eradicates all trace of Good" :
+                      "Battle Result: No victor on this battle field";
+}
 
 ```
 
-## Notes about the interesting one:
+## Notes about the interesting one
 
-Interesting kata notes here
+This one seems to be an old solution, or the author really liked the idea of using the global scope of var, I'd say the second due to the calling of variables declared after the call.
+Overall very clean and nice code
+
 
 ---

@@ -33,7 +33,7 @@ New format katas
 | 12(3) Aug 2024 | Break camelCase | 6 Kyu | [17-kata.js](./katas/17-kata/17-kata.js) | [17-kata.md](./katas/17-kata/17-kata.md) | 30 min | Pass| https://shorturl.at/Jq4eF |
 | 13 Aug 2024 | Unique In Order | 6 Kyu | [18-kata.js](./katas/18-kata/18-kata.js) | [18-kata.md](./katas/18-kata/18-kata.md) | 20 min | Pass | https://shorturl.at/2YRk5 |
 | 14 Aug 2024 | What century is it? | 6 Kyu | [19-kata.js](./katas/19-kata/19-kata.js) | [19-kata.md](./katas/19-kata/19-kata.md) | 1:30 hrs | Pass | https://shorturl.at/xSKyE |
-| 15 Aug 2024 | Good vs Evil | 6 Kyu | [20-kata.js](./katas/20-kata/20-kata.js) | [20-kata.md](./katas/20-kata/20-kata.md) | In progress | In progress | https://shorturl.at/EVtDo |
+| 15 Aug 2024 | Good vs Evil | 6 Kyu | [20-kata.js](./katas/20-kata/20-kata.js) | [20-kata.md](./katas/20-kata/20-kata.md) | 30 min | Pass | https://shorturl.at/EVtDo |
 
 [Frzy](https://www.codewars.com/users/Frzy)
 
