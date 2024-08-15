@@ -51,14 +51,35 @@ describe("Tests", () => {
 
 ## Notes
 
-Notes here
-
+This one seemed easy at first but put me to investigate some things I dod not have clear about English use of numerals and how centuries are actually counted
 ## My solution with comments:
 
 ```js
 
-//My code here
 
+function whatCentury(year) {
+    let remains = year % 100; // this will give me the number of the decade
+    let baseC = Math.floor(year / 100); // this will give me the century base number
+
+    if (remains >= 1) {
+      baseC++;
+    } // for any decade different to 0 we need to add 1 to the century, if it is a 00 that means the year is the last year of the century so no ++
+
+    const getSufix = (century) => {
+      const lastDigit = century % 10; // here we take the century last digit to determine the correct suffix adding exceptions to the 11, 12 and 13 which have special rules.
+      if (lastDigit === 1 && century !== 11) { 
+        return 'st';
+      } else if (lastDigit === 2 && century !== 12) {
+        return 'nd';
+      } else if (lastDigit === 3 && century !== 13) {
+        return 'rd';
+      } else {
+        return 'th';
+      }
+    };
+
+    return baseC + getSufix(baseC); // we return the concatenated string
+  }
 ```
 
 
@@ -66,21 +87,29 @@ Notes here
 
 ```js
 
-//hpefully good results here
-
+Test Results:
+  Fixed tests
+  basic tests
+Completed in 1ms
+Random tests
+  100 tests
+Completed in 2ms
+You have passed all of the tests! :)
 ```
 
 ## Interesting Kata solution:
-> by *[somebody](https://example.com)*
+> by *[Ivan Diachenko](https://www.codewars.com/users/Ivan%20Diachenko)*
 
 ```js
 
-//interesting solution here
-
+function whatCentury(year)
+{
+  var century = Math.ceil(year/100);
+  return century + (century < 20 ? 'th' : ['th', 'st', 'nd', 'rd'][century % 10] || 'th');
+}
 ```
 
 ## Notes about the interesting one:
 
-Interesting kata notes here
-
 ---
+What is that thing inside the Ternary? I will investigate and update
