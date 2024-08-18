@@ -48,7 +48,7 @@ describe("GetMiddle", function() {
 
 ## Notes
 
-quite simple but help me bring clarity on the method slice
+Quite simple but facilitated clarity for me on the slice method
 ## My solution with comments:
 
 ```js
