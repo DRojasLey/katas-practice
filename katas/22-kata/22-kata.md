@@ -94,4 +94,6 @@ function getMiddle(s)
 ## Notes about the interesting one:
 
 A one liner again but I learned the ``` string.substr()``` method in the process of reading it, worth it
+
+
 ---
