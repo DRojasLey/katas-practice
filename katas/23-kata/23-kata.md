@@ -66,14 +66,37 @@ describe("Tests", () => {
 
 ## Notes
 
-Notes here
+This one took me a while as I first tried to use includes(), which works for cases where there are no duplicates.
+This was despite my initial impulse to use sort instead and then compare both arrays, once I found that includes was not gonna work I switched back to sort + map and a for loop to get to this solution.
+
+Although I learned a bit about includes and map, I needed the time for other things :C
 
 ## My solution with comments:
 
 ```js
 
-//My code here
-
+function comp(array1, array2) {
+    //regular data validation
+    if (array1 === null || array2 === null || array1.length !== array2.length) {
+        return false;
+    // we check if both arrays are thruthy
+    } else if (array1 && array2){
+        //make sure  we convert the arrays to as close as possible,
+        //this is done as include() will make error the solution out for duplicated values
+        let sortedOne = array1.sort((a,b)=>a-b)
+        let sortedTwo = array2.map(num => Math.sqrt(num)).sort((a, b) => a - b);
+        // we iterate for each element checking if each element coincides, actually going 1 by one element
+        // if we compare sorted1 to sorted2 it will return false as the comparison will check the variable name
+        for (let i = 0; i < sortedOne.length; i++) {
+            if (sortedOne[i] !== sortedTwo[i]) {
+                //return false if the elements do not coincide
+                return false;
+            }
+        }
+        //return true if all the elements coincide
+        return true;
+    }
+}
 ```
 
 
@@ -81,7 +104,11 @@ Notes here
 
 ```js
 
-//hpefully good results here
+Time: 1122ms Passed: 214Failed: 0
+Test Results:
+Basic tests
+Random tests
+You have passed all of the tests! :)
 
 ```
 
@@ -90,12 +117,16 @@ Notes here
 
 ```js
 
-//interesting solution here
+function comp(a, b) {
+  return !!a && !!b && a.map(x => x*x).sort().join() == b.sort().join();
+}
 
 ```
 
 ## Notes about the interesting one:
 
-Interesting kata notes here
+
+The very first solution was my solution but more efficiently written, not much to learn, however this one uses double negation for the implicit null checks, that is interesting, also, he converted the processed arrays into strings to avoid the need for a for loop, much clever indeed.
+
 
 ---

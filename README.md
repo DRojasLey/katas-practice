@@ -35,8 +35,8 @@ New format katas
 | 14 Aug 2024 | What century is it? | 6 Kyu | [19-kata.js](./katas/19-kata/19-kata.js) | [19-kata.md](./katas/19-kata/19-kata.md) | 1:30 hrs | Pass | https://shorturl.at/xSKyE |
 | 15 Aug 2024 | Good vs Evil | 6 Kyu | [20-kata.js](./katas/20-kata/20-kata.js) | [20-kata.md](./katas/20-kata/20-kata.md) | 30 min | Pass | https://shorturl.at/EVtDo |
 | 16 Aug 2024 | Shortest Word | 7 Kyu | [21-kata.js](./katas/21-kata/21-kata.js) | [21-kata.md](./katas/21-kata/21-kata.md) | 30 min | Pass | https://shorturl.at/2nnHu |
-| 17 Aug 2024 | Get the Middle Character | 7 Kyu | [22-kata.js](./katas/22-kata/22-kata.js) | [22-kata.md](./katas/22-kata/22-kata.md) | 15 min | Pass | https://shorturl.at/hHZ3g |
-| 18 Aug 2024 | Are they the "same" | 6 Kyu | [23-kata.js](./katas/23-kata/23-kata.js) | [23-kata.md](./katas/23-kata/23-kata.md) | In progress | In progress | https://shorturl.at/WEu97 |
+| 17 Aug 2024 | Get the Middle Character | 7 Kyu | [22-kata.js](./katas/22-kata/22-kata.js) | [22-kata.md](./katas/22-kata/22-kata.md) | 15 min | Pass | https://shorturl.at/WEu97 |
+| 18 Aug 2024 | Are they the "same" | 6 Kyu | [23-kata.js](./katas/23-kata/23-kata.js) | [23-kata.md](./katas/23-kata/23-kata.md) | 1:30 hrs | Pass | https://shorturl.at/hHZ3g |
 
 
 
