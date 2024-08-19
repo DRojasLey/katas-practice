@@ -12,13 +12,13 @@ Simple repository to complete Katas in Codewars
 | Date | Name | Level | Solution | Notes | Time | Status | Link |
 |--|--|--|--|--|--|--|--|
 | 27 Jul 2024 | Multiples of 3 or 5	 | 6 Kyu | [1-kata.js](./katas/1-kata/1-kata.js) | [1-kata.md](./katas/1-kata/1-kata.md) | 45 min | Pass | https://shorturl.at/0tkiT |
+| 28 Jul 2024 | Stop gninnipS My sdroW!  | 6 Kyu | [2-kata.js](./katas/2-kata/2-kata.js) | [2-kata.md](./katas/2-kata/2-kata.md) | 80 min | failed | https://shorturl.at/f2fx3 |
 
 ### Original Katas:
 
 
 | Name               | file          | time  | status | link                      |
 |--------------------|---------------|-------|--------|---------------------------|
-|Stop gninnipS My sdroW! | [kata-second.js](katas/kata-second.js) | 80 min | failed | https://shorturl.at/f2fx3 |
 |Vowel Count | [kata-third.js](katas/kata-third.js) | 15 min | Pass | https://shorturl.at/RyenV |
 |Are You Playing Banjo? | [kata-fourth.js](katas/kata-fourth.js) | 10 min | Pass | https://shorturl.at/E3NXY |
 |Counting sheep... | [kata-fifth.js](katas/kata-fifth.js) | 5 min | Pass | https://shorturl.at/hF5hY |
