@@ -17,13 +17,13 @@ Simple repository to complete Katas in Codewars
 | 30 Jul 2024 | Are You Playing Banjo? | 8 Kyu | [4-kata.js](./katas/4-kata/4-kata.js) | [4-kata.md](./katas/4-kata/4-kata.md) | 10 min | Pass | https://shorturl.at/E3NXY |
 | 31 Jul 2024 | Counting sheep... | 8 Kyu | [5-kata.js](./katas/5-kata/5-kata.js) | [5-kata.md](./katas/5-kata/5-kata.md) | 5 min | Pass | https://shorturl.at/hF5hY |
 | 1 Aug 2024 |  Keep Hydrated! | 8 Kyu | [6-kata.js](./katas/6-kata/6-kata.js) | [6-kata.md](./katas/6-kata/6-kata.md) | 3 min | Pass | https://shorturl.at/Lylf9 |
+| 2 Aug 2024 | A Needle in the Haystack | 8 Kyu | [7-kata.js](./katas/7-kata/7-kata.js) | [7-kata.md](./katas/7-kata/7-kata.md) | 3 min | Pass | https://shorturl.at/aUOmI |
 
 ### Original Katas:
 
 
 | Name               | file          | time  | status | link                      |
 |--------------------|---------------|-------|--------|---------------------------|
-|A Needle in the Haystack | [kata-seventh.js](katas/kata-seventh.js) | 10 min  | Pass | https://shorturl.at/aUOmI |
 |Does my number look big in this? | [kata-eighth.js](katas/kata-eighth.js) | 30 min  | Pass | https://shorturl.at/8OcxZ |
 |Disemvowel Trolls | [kata-ninth.js](katas/kata-ninth.js) | 15 min  | Pass | https://shorturl.at/CtVA5|
 |Sum of two lowest positive integers | [kata-tenth.js](katas/kata-tenth.js) | 20 min  | Pass | https://shorturl.at/CtVA5|
