@@ -113,7 +113,7 @@ You have passed all of the tests! :)
 ```
 
 ## Interesting Kata solution:
-> by *[somebody](https://example.com)*
+> by *[omiceron](https://www.codewars.com/users/omiceron)*
 
 ```js
 
