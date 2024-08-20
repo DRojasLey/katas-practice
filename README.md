@@ -16,13 +16,13 @@ Simple repository to complete Katas in Codewars
 | 29 Jul 2024 | Vowel Count  | 7 Kyu | [3-kata.js](./katas/3-kata/3-kata.js) | [3-kata.md](./katas/3-kata/3-kata.md) | 15 min | Pass | https://shorturl.at/RyenV |
 | 30 Jul 2024 | Are You Playing Banjo? | 8 Kyu | [4-kata.js](./katas/4-kata/4-kata.js) | [4-kata.md](./katas/4-kata/4-kata.md) | 10 min | Pass | https://shorturl.at/E3NXY |
 | 31 Jul 2024 | Counting sheep... | 8 Kyu | [5-kata.js](./katas/5-kata/5-kata.js) | [5-kata.md](./katas/5-kata/5-kata.md) | 5 min | Pass | https://shorturl.at/hF5hY |
+| 1 Aug 2024 |  Keep Hydrated! | 8 Kyu | [6-kata.js](./katas/6-kata/6-kata.js) | [6-kata.md](./katas/6-kata/6-kata.md) | 3 min | Pass | https://shorturl.at/Lylf9 |
 
 ### Original Katas:
 
 
 | Name               | file          | time  | status | link                      |
 |--------------------|---------------|-------|--------|---------------------------|
-|Keep Hydrated! | [kata-sixth.js](katas/kata-sixth.js) | 3 min | Pass | https://shorturl.at/Lylf9 |
 |A Needle in the Haystack | [kata-seventh.js](katas/kata-seventh.js) | 10 min  | Pass | https://shorturl.at/aUOmI |
 |Does my number look big in this? | [kata-eighth.js](katas/kata-eighth.js) | 30 min  | Pass | https://shorturl.at/8OcxZ |
 |Disemvowel Trolls | [kata-ninth.js](katas/kata-ninth.js) | 15 min  | Pass | https://shorturl.at/CtVA5|
