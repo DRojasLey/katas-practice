@@ -38,6 +38,7 @@ New format katas
 | 17 Aug 2024 | Get the Middle Character | 7 Kyu | [22-kata.js](./katas/22-kata/22-kata.js) | [22-kata.md](./katas/22-kata/22-kata.md) | 15 min | Pass | https://shorturl.at/WEu97 |
 | 18 Aug 2024 | Are they the "same" | 6 Kyu | [23-kata.js](./katas/23-kata/23-kata.js) | [23-kata.md](./katas/23-kata/23-kata.md) | 1:30 hrs | Pass | https://shorturl.at/hHZ3g |
 | 19 Aug 2024 | Find the unique number | 6 Kyu | [24-kata.js](./katas/24-kata/24-kata.js) | [24-kata.md](./katas/24-kata/24-kata.md) | 20 min | Pass | https://shorturl.at/VWpdp |
+| 20 Aug 2024 | Total amount of points | 8 Kyu | [25-kata.js](./katas/25-kata/25-kata.js) | [25-kata.md](./katas/25-kata/25-kata.md) | 20 min | Pass | https://shorturl.at/RsONC |
 
 
 
