@@ -1,13 +1,14 @@
 # Practice Katas Repository
 
 
-Simple repository to complete Katas in Codewars
+Kata completion journal repository.
+
 
 ---
 
 ## List of completed Katas
 
-### Updated Katas:
+
 
 | Date | Name | Level | Solution | Notes | Time | Status | Link |
 |--|--|--|--|--|--|--|--|
@@ -22,15 +23,8 @@ Simple repository to complete Katas in Codewars
 | 4 Aug 2024 | Disemvowel Trolls | 7 Kyu | [9-kata.js](./katas/9-kata/9-kata.js) | [9-kata.md](./katas/9-kata/9-kata.md) | 15 min | Pass | https://shorturl.at/32CWT |
 | 5 Aug 2024 | Sum of two lowest positive integers | 7 Kyu | [10-kata.js](./katas/10-kata/10-kata.js) | [10-kata.md](./katas/10-kata/10-kata.md) | 20 min | Pass | https://shorturl.at/TjCHX |
 | 6 Aug 2024 | Odd or Even? | 7 Kyu | [11-kata.js](./katas/11-kata/11-kata.js) | [11-kata.md](./katas/11-kata/11-kata.md) | 30 min | Pass | https://shorturl.at/5emBs |
-
-### Original Katas:
-
-
-| Name               | file          | time  | status | link                      |
-|--------------------|---------------|-------|--------|---------------------------|
-|Split Strings | [kata-twelfth.js](katas/kata-twelfth.js) | 40 min  | Pass | https://shorturl.at/jRPmE|
-|Opposites Attract | [kata-thirteenth.js](katas/kata-thirteenth.js) | 10 min  | Pass | https://shorturl.at/WMQAs|
-
+| 7 Aug 2024 | Split Strings | 6 Kyu | [12-kata.js](./katas/12-kata/12-kata.js) | [12-kata.md](./katas/12-kata/12-kata.md) | 40 min | Pass | https://shorturl.at/7Ljsa |
+| 8 Aug 2024 | Opposites Attract | 8 Kyu | [13-kata.js](./katas/13-kata/13-kata.js) | [13-kata.md](./katas/13-kata/13-kata.md) | 10 min | Pass | https://shorturl.at/SI2Yc|
 
 
 
