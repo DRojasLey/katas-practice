@@ -19,13 +19,13 @@ Simple repository to complete Katas in Codewars
 | 1 Aug 2024 |  Keep Hydrated! | 8 Kyu | [6-kata.js](./katas/6-kata/6-kata.js) | [6-kata.md](./katas/6-kata/6-kata.md) | 3 min | Pass | https://shorturl.at/Lylf9 |
 | 2 Aug 2024 | A Needle in the Haystack | 8 Kyu | [7-kata.js](./katas/7-kata/7-kata.js) | [7-kata.md](./katas/7-kata/7-kata.md) | 3 min | Pass | https://shorturl.at/aUOmI |
 | 3 Aug 2024 | Does my number look big in this? | 6 Kyu | [8-kata.js](./katas/8-kata/8-kata.js) | [8-kata.md](./katas/8-kata/8-kata.md) | 30 min | Pass | https://shorturl.at/8OcxZ |
+| 4 Aug 2024 | Disemvowel Trolls | 7 Kyu | [9-kata.js](./katas/9-kata/9-kata.js) | [9-kata.md](./katas/9-kata/9-kata.md) | 15 min | Pass | https://shorturl.at/32CWT |
 
 ### Original Katas:
 
 
 | Name               | file          | time  | status | link                      |
 |--------------------|---------------|-------|--------|---------------------------|
-|Disemvowel Trolls | [kata-ninth.js](katas/kata-ninth.js) | 15 min  | Pass | https://shorturl.at/CtVA5|
 |Sum of two lowest positive integers | [kata-tenth.js](katas/kata-tenth.js) | 20 min  | Pass | https://shorturl.at/CtVA5|
 |Odd or Even? | [kata-eleventh.js](katas/kata-eleventh.js) | 30 min  | Pass | https://shorturl.at/5emBs|
 |Split Strings | [kata-twelfth.js](katas/kata-twelfth.js) | 40 min  | Pass | https://shorturl.at/jRPmE|
