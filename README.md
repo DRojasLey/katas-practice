@@ -1,11 +1,14 @@
 # Practice Katas Repository
 
 
-Simple repository to complete Katas in Codewars
+Kata completion journal repository.
+
 
 ---
 
 ## List of completed Katas
+
+
 
 | Name               | file          | time  | status | link                      |
 |--------------------|---------------|-------|--------|---------------------------|
@@ -22,6 +25,7 @@ Simple repository to complete Katas in Codewars
 |Odd or Even? | [kata-eleventh.js](katas/kata-eleventh.js) | 30 min  | Pass | https://shorturl.at/5emBs|
 |Split Strings | [kata-twelfth.js](katas/kata-twelfth.js) | 40 min  | Pass | https://shorturl.at/jRPmE|
 |Opposites Attract | [kata-thirteenth.js](katas/kata-thirteenth.js) | 10 min  | Pass | https://shorturl.at/WMQAs|
+
 
 New format katas
 
