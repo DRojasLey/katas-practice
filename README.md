@@ -10,6 +10,7 @@ Kata completion journal repository.
 
 
 
+
 | Date | Name | Level | Solution | Notes | Time | Status | Link |
 |--|--|--|--|--|--|--|--|
 | 27 Jul 2024 | Multiples of 3 or 5	 | 6 Kyu | [1-kata.js](./katas/1-kata/1-kata.js) | [1-kata.md](./katas/1-kata/1-kata.md) | 45 min | Pass | https://shorturl.at/0tkiT |
@@ -25,7 +26,19 @@ Kata completion journal repository.
 | 6 Aug 2024 | Odd or Even? | 7 Kyu | [11-kata.js](./katas/11-kata/11-kata.js) | [11-kata.md](./katas/11-kata/11-kata.md) | 30 min | Pass | https://shorturl.at/5emBs |
 | 7 Aug 2024 | Split Strings | 6 Kyu | [12-kata.js](./katas/12-kata/12-kata.js) | [12-kata.md](./katas/12-kata/12-kata.md) | 40 min | Pass | https://shorturl.at/7Ljsa |
 | 8 Aug 2024 | Opposites Attract | 8 Kyu | [13-kata.js](./katas/13-kata/13-kata.js) | [13-kata.md](./katas/13-kata/13-kata.md) | 10 min | Pass | https://shorturl.at/SI2Yc|
-
+| 9 Aug 2024 | Create Phone Number | 6 Kyu | [14-kata.js](./katas/14-kata/14-kata.js) | [14-kata.md](./katas/14-kata/14-kata.md) | 30 min | Pass | https://shorturl.at/hYy47 |
+| 10 Aug 2024 | Build Tower | 6 Kyu | [15-kata.js](./katas/15-kata/15-kata.js) | [15-kata.md](./katas/15-kata/15-kata.md) | 20 min | Pass | https://shorturl.at/VF19q |
+| 11 Aug 2024 | Write Number in Expanded Form | 6 Kyu | [16-kata.js](./katas/16-kata/16-kata.js) | [16-kata.md](./katas/16-kata/16-kata.md) | 4:20 hrs | Pass| https://shorturl.at/IGC0D |
+| 12(3) Aug 2024 | Break camelCase | 6 Kyu | [17-kata.js](./katas/17-kata/17-kata.js) | [17-kata.md](./katas/17-kata/17-kata.md) | 30 min | Pass| https://shorturl.at/Jq4eF |
+| 13 Aug 2024 | Unique In Order | 6 Kyu | [18-kata.js](./katas/18-kata/18-kata.js) | [18-kata.md](./katas/18-kata/18-kata.md) | 20 min | Pass | https://shorturl.at/2YRk5 |
+| 14 Aug 2024 | What century is it? | 6 Kyu | [19-kata.js](./katas/19-kata/19-kata.js) | [19-kata.md](./katas/19-kata/19-kata.md) | 1:30 hrs | Pass | https://shorturl.at/xSKyE |
+| 15 Aug 2024 | Good vs Evil | 6 Kyu | [20-kata.js](./katas/20-kata/20-kata.js) | [20-kata.md](./katas/20-kata/20-kata.md) | 30 min | Pass | https://shorturl.at/EVtDo |
+| 16 Aug 2024 | Shortest Word | 7 Kyu | [21-kata.js](./katas/21-kata/21-kata.js) | [21-kata.md](./katas/21-kata/21-kata.md) | 30 min | Pass | https://shorturl.at/2nnHu |
+| 17 Aug 2024 | Get the Middle Character | 7 Kyu | [22-kata.js](./katas/22-kata/22-kata.js) | [22-kata.md](./katas/22-kata/22-kata.md) | 15 min | Pass | https://shorturl.at/WEu97 |
+| 18 Aug 2024 | Are they the "same" | 6 Kyu | [23-kata.js](./katas/23-kata/23-kata.js) | [23-kata.md](./katas/23-kata/23-kata.md) | 1:30 hrs | Pass | https://shorturl.at/hHZ3g |
+| 19 Aug 2024 | Find the unique number | 6 Kyu | [24-kata.js](./katas/24-kata/24-kata.js) | [24-kata.md](./katas/24-kata/24-kata.md) | 20 min | Pass | https://shorturl.at/VWpdp |
+| 20 Aug 2024 | Total amount of points | 8 Kyu | [25-kata.js](./katas/25-kata/25-kata.js) | [25-kata.md](./katas/25-kata/25-kata.md) | 20 min | Pass | https://shorturl.at/RsONC |
+| 21 Aug 2024 | Reverse words | 7 Kyu | [26-kata.js](./katas/26-kata/26-kata.js) | [26-kata.md](./katas/26-kata/26-kata.md) | 40 min | Pass | https://shorturl.at/Dhcc5 |
 
 
 
