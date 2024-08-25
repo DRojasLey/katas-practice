@@ -42,7 +42,7 @@ Kata completion journal repository.
 | 22 Aug 2024 | You're a square! | 7 Kyu | [27-kata.js](./katas/27-kata/27-kata.js) | [27-kata.md](./katas/27-kata/27-kata.md) | 30 mins | Pass | https://shorturl.at/eJ84u|
 | 23 Aug 2024 | String ends with? | 7 Kyu | [28-kata.js](./katas/28-kata/28-kata.js) | [28-kata.md](./katas/28-kata/28-kata.md) | 5 min | Pass | https://shorturl.at/VMz2e |
 | 24 Aug 2024 | Extract the domain name from a URL | 5 Kyu | [29-kata.js](./katas/29-kata/29-kata.js) | [29-kata.md](./katas/29-kata/29-kata.md) | 1 hrs | Pass  | https://shorturl.at/lYDLD |
-| 25 Aug 2024 | Detect Pangram | 6 Kyu | [30-kata.js](./katas/30-kata/30-kata.js) | [30-kata.md](./katas/30-kata/30-kata.md) | In progress | In progress  | https://shorturl.at/7Kg3w |
+| 25 Aug 2024 | Detect Pangram | 6 Kyu | [30-kata.js](./katas/30-kata/30-kata.js) | [30-kata.md](./katas/30-kata/30-kata.md) | 1 hrs | Pass  | https://shorturl.at/7Kg3w |
 
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
