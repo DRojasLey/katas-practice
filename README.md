@@ -41,6 +41,7 @@ Kata completion journal repository.
 | 21 Aug 2024 | Reverse words | 7 Kyu | [26-kata.js](./katas/26-kata/26-kata.js) | [26-kata.md](./katas/26-kata/26-kata.md) | 40 min | Pass | https://shorturl.at/Dhcc5 |
 | 22 Aug 2024 | You're a square! | 7 Kyu | [27-kata.js](./katas/27-kata/27-kata.js) | [27-kata.md](./katas/27-kata/27-kata.md) | 30 mins | Pass | https://shorturl.at/eJ84u|
 | 23 Aug 2024 | String ends with? | 7 Kyu | [28-kata.js](./katas/28-kata/28-kata.js) | [28-kata.md](./katas/28-kata/28-kata.md) | 5 min | Pass | https://shorturl.at/VMz2e |
+| 24 Aug 2024 | Extract the domain name from a URL | 5 Kyu | [29-kata.js](./katas/29-kata/29-kata.js) | [29-kata.md](./katas/29-kata/29-kata.md) | I progress | In progress  | https://shorturl.at/lYDLD |
 
 
 
