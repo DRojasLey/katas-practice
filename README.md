@@ -44,6 +44,7 @@ Kata completion journal repository.
 | 24 Aug 2024 | Extract the domain name from a URL | 5 Kyu | [29-kata.js](./katas/29-kata/29-kata.js) | [29-kata.md](./katas/29-kata/29-kata.md) | 1 hrs | Pass  | https://shorturl.at/lYDLD |
 | 25 Aug 2024 | Detect Pangram | 6 Kyu | [30-kata.js](./katas/30-kata/30-kata.js) | [30-kata.md](./katas/30-kata/30-kata.md) | 1 hrs | Pass  | https://shorturl.at/7Kg3w |
 | 26 Aug 2024 | Square Every Digit | 7 Kyu | [31-kata.js](./katas/31-kata/31-kata.js) | [31-kata.md](./katas/31-kata/31-kata.md) | 15 min | Pass  | https://shorturl.at/bOnTT |
+| 27 Aug 2024 | Mumbling | 7 Kyu | [32-kata.js](./katas/32-kata/32-kata.js) | [32-kata.md](./katas/32-kata/32-kata.md) | 20 min | Pass | https://shorturl.at/76zh7 |
 
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
