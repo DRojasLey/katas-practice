@@ -4,7 +4,7 @@
 
 
 
-by *[usernameHere](https://www.codewars.com/users/username)*
+by *[usernameHere](LINKHERE)*
 
 
 ## Task
@@ -13,10 +13,6 @@ by *[usernameHere](https://www.codewars.com/users/username)*
 
 Explanation here
 
-```
-//code snippets here
-
-```
 
 
 ## Test Examples
@@ -24,7 +20,6 @@ Explanation here
 ```js
 
 //test examples here
-
 
 ```
 
@@ -51,7 +46,7 @@ Notes here
 ```
 
 ## Interesting Kata solution:
-> by *[somebody](https://example.com)*
+> by *[somebody](LINKHERE)*
 
 ```js
 

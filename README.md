@@ -46,6 +46,8 @@ Kata completion journal repository.
 | 26 Aug 2024 | Square Every Digit | 7 Kyu | [31-kata.js](./katas/31-kata/31-kata.js) | [31-kata.md](./katas/31-kata/31-kata.md) | 15 min | Pass  | https://shorturl.at/bOnTT |
 | 27 Aug 2024 | Mumbling | 7 Kyu | [32-kata.js](./katas/32-kata/32-kata.js) | [32-kata.md](./katas/32-kata/32-kata.md) | 20 min | Pass | https://shorturl.at/76zh7 |
 | 28 Aug 2024 | Exes and Ohs | 7 Kyu | [33-kata.js](./katas/33-kata/33-kata.js) | [33-kata.md](./katas/33-kata/33-kata.md) | 20 min | Pass | https://shorturl.at/d0kGl |
+| 29 Aug 2024 | Growth of a Population | 7 Kyu | [34-kata.js](./katas/34-kata/34-kata.js) | [34-kata.md](./katas/34-kata/34-kata.md) | 20 min | Pass | https://shorturl.at/nzG3y |
+
 
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
