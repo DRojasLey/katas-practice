@@ -48,14 +48,22 @@ it("Basic tests",function() {
 
 ## Notes
 
-Notes here
+At the start I thought I would need to convert the letters to ascii but then I noticed it was working with the letter themselves, which saved me some operations.
 
 ## My solution with comments:
 
 ```js
 
-//My code here
-
+function printerError(s) {
+    let errors = 0;
+    for (let i = 0; i < s.length; i++) {
+      if (s[i] < 'a' || s[i] > 'm') { // we can use the character as it will do a coercion and take 'a' and 'm' as it's ascii value
+        errors++;
+      }
+    }
+    const totalLength = s.length;
+    return `${errors}/${totalLength}`;
+  }
 ```
 
 
@@ -63,21 +71,29 @@ Notes here
 
 ```js
 
-//hpefully good results here
-
+Time: 958ms Passed: 201Failed: 0
+Test Results:
+printerError
+Basic tests
+Completed in 1ms
+Random tests
+You have passed all of the tests! :)
 ```
 
 ## Interesting Kata solution:
-> by *[somebody](LINKHERE)*
+> by *[okonek83](https://www.codewars.com/users/okonek83)*
 
 ```js
-
-//interesting solution here
-
+function printerError(s) {
+    let b = Array.from(s).filter(letter => letter > "m");
+    return b.length+"/"+s.length;
+}
 ```
 
 ## Notes about the interesting one:
 
-Interesting kata notes here
+This one is interesting because he used the same coercion trick but instead he ignored the "a" side of the range, (taking into account the conditions of the description, this was an evident path in hindsight)
+
+He uses the range after 'm' to filter and create an array of errors, and then counts everything when returning it
 
 ---
