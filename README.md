@@ -47,6 +47,7 @@ Kata completion journal repository.
 | 27 Aug 2024 | Mumbling | 7 Kyu | [32-kata.js](./katas/32-kata/32-kata.js) | [32-kata.md](./katas/32-kata/32-kata.md) | 20 min | Pass | https://shorturl.at/76zh7 |
 | 28 Aug 2024 | Exes and Ohs | 7 Kyu | [33-kata.js](./katas/33-kata/33-kata.js) | [33-kata.md](./katas/33-kata/33-kata.md) | 20 min | Pass | https://shorturl.at/d0kGl |
 | 29 Aug 2024 | Growth of a Population | 7 Kyu | [34-kata.js](./katas/34-kata/34-kata.js) | [34-kata.md](./katas/34-kata/34-kata.md) | 20 min | Pass | https://shorturl.at/nzG3y |
+| 30 Aug 2024 | Printer Errors | 7 Kyu | [35-kata.js](./katas/35-kata/35-kata.js) | [35-kata.md](./katas/35-kata/35-kata.md) | In progress | In progress | https://shorturl.at/7PtUp |
 
 
 
