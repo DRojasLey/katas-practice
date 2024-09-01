@@ -1,9 +1,5 @@
 # XXth Kata -- kataNameHere
 
-
-
-
-
 by *[usernameHere](LINKHERE)*
 
 

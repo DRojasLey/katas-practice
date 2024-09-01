@@ -1,10 +1,6 @@
 # 37th Kata -- Who likes it?
 
 
-
-
-
-
 by *[BattleRattle](https://www.codewars.com/users/BattleRattle)*
 
 
