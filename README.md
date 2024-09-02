@@ -49,7 +49,9 @@ Kata completion journal repository.
 | 29 Aug 2024 | Growth of a Population | 7 Kyu | [34-kata.js](./katas/34-kata/34-kata.js) | [34-kata.md](./katas/34-kata/34-kata.md) | 20 min | Pass | https://shorturl.at/nzG3y |
 | 30 Aug 2024 | Printer Errors | 7 Kyu | [35-kata.js](./katas/35-kata/35-kata.js) | [35-kata.md](./katas/35-kata/35-kata.md) | 15 min | Pass | https://shorturl.at/7PtUp |
 | 31 Aug 2024 | Sum of the first nth term of Series | 7 Kyu | [36-kata.js](./katas/36-kata/36-kata.js) | [36-kata.md](./katas/36-kata/36-kata.md) | 40 mins | Pass | https://shorturl.at/9ThfM |
-| 1 Sept 2024 | Who likes it? | 6 Kyu | [37-kata.js](./katas/37-kata/37-kata.js) | [37-kata.md](./katas/37-kata/37-kata.md) | 15 min | Pass | https://shorturl.at/yog3S |
+| 1 Sept 2024 | Who likes it? | 7 Kyu | [37-kata.js](./katas/37-kata/37-kata.js) | [37-kata.md](./katas/37-kata/37-kata.md) | 15 min | Pass | https://shorturl.at/yog3S |
+| 2 Sept 2024 | Sort the odd | 6 Kyu | [38-kata.js](./katas/38-kata/38-kata.js) | [38-kata.md](./katas/38-kata/38-kata.md) | 1 hrs | Pass | https://shorturl.at/b0dJo |
+
 
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
