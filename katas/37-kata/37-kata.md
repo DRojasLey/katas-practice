@@ -45,13 +45,25 @@ describe('example tests', function() {
 
 ## Notes
 
-Notes here
+Maybe using a switch the code would look cleaner
 
 ## My solution with comments:
 
 ```js
 
-//My code here
+function likes(names) {
+  if (names[0] === undefined){
+    return 'no one likes this';
+  } else if (names.length === 1){
+    return `${names[0]} likes this`;
+  } else if (names.length === 2){
+    return `${names[0]} and ${names[1]} like this`;
+  } else if (names.length === 3){
+    return `${names[0]}, ${names[1]} and ${names[2]} like this`;
+  } else if (names.length > 3){
+    return `${names[0]}, ${names[1]} and ${name.length - 2} like this`;
+  }
+}
 
 ```
 
@@ -60,21 +72,31 @@ Notes here
 
 ```js
 
-//hpefully good results here
-
+Time: 1006ms Passed: 5Failed: 0
+Test Results:
+static tests
+random tests
+You have passed all of the tests! :)
 ```
 
 ## Interesting Kata solution:
-> by *[somebody](LINKHERE)*
+> by *[zadoev](https://www.codewars.com/users/zadoev)*
 
 ```js
-
-//interesting solution here
-
+function likes(names) {
+  return {
+    0: 'no one likes this',
+    1: `${names[0]} likes this`, 
+    2: `${names[0]} and ${names[1]} like this`, 
+    3: `${names[0]}, ${names[1]} and ${names[2]} like this`, 
+    4: `${names[0]}, ${names[1]} and ${names.length - 2} others like this`, 
+  }[Math.min(4, names.length)]
+}
 ```
 
 ## Notes about the interesting one:
 
-Interesting kata notes here
+Took me a while to understand what was happening here, but un short this uses a clever object literal, with  the object position notation to return the correct value each time, no need for flow control, it just will return the cases from 1 to 4.
+incredible 
 
 ---
