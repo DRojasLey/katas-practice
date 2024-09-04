@@ -1,4 +1,4 @@
-# XXth Kata -- Friend or Foe?
+# 40th Kata -- Friend or Foe?
 
 
 by *[Aweson1](https://www.codewars.com/users/Aweson1)*
@@ -44,14 +44,15 @@ describe("Basic tests", () => {
 
 ## Notes
 
-Notes here
+Implementing .filter(), I feel like I'm learning to remember to not use reduce for everything
 
 ## My solution with comments:
 
 ```js
 
-//My code here
-
+function friend(friends){
+        return friends.filter(element => element.length === 4) // hey look I did not use reduce
+  }
 ```
 
 
@@ -59,21 +60,39 @@ Notes here
 
 ```js
 
-//hpefully good results here
-
+Time: 837ms Passed: 2Failed: 0
+Test Results:
+Basic tests
+Testing for fixed tests
+Completed in 1ms
+Random tests
+Testing for 40 random tests
+Completed in 1ms
+You have passed all of the tests! :)
 ```
 
 ## Interesting Kata solution:
-> by *[somebody](LINKHERE)*
+> by *[FepAguilar](https://www.codewars.com/users/FepAguilar)*
 
 ```js
 
-//interesting solution here
-
+function friend(friends){
+ //Create new array called "myFriends" for add your friends
+  var i,
+      len = friends.length,
+      myFriends = [];
+  for (i = 0; i < len; i++) {
+       //Check for names with length equal to four and it is not a number
+       if(friends[i].length == 4 && isNaN(friends[i])) {
+          myFriends.push(friends[i]);
+       }
+  }
+  return myFriends;
+}
 ```
 
 ## Notes about the interesting one:
 
-Interesting kata notes here
+A manual iteration so he could implement the isNaN function, initially I also thought of using NaN to check for numbers, but after testing I found  it to be not necessary.
 
 ---

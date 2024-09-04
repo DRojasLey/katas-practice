@@ -52,7 +52,7 @@ Kata completion journal repository.
 | 1 Sept 2024 | Who likes it? | 7 Kyu | [37-kata.js](./katas/37-kata/37-kata.js) | [37-kata.md](./katas/37-kata/37-kata.md) | 15 min | Pass | https://shorturl.at/yog3S |
 | 2 Sept 2024 | Sort the odd | 6 Kyu | [38-kata.js](./katas/38-kata/38-kata.js) | [38-kata.md](./katas/38-kata/38-kata.md) | 1 hrs | Pass | https://shorturl.at/b0dJo |
 | 3 Sept 2024 | Descending Order | 7 Kyu | [39-kata.js](./katas/39-kata/39-kata.js) | [39-kata.md](./katas/39-kata/39-kata.md) | 10 min | Pass | https://shorturl.at/lbvKC |
-| 4 Sept 2024 | Friend or Foe? | 7 Kyu | [40-kata.js](./katas/40-kata/40-kata.js) | [40-kata.md](./katas/40-kata/40-kata.md) | In progress | In progress | https://shorturl.at/4hkpL |
+| 4 Sept 2024 | Friend or Foe? | 7 Kyu | [40-kata.js](./katas/40-kata/40-kata.js) | [40-kata.md](./katas/40-kata/40-kata.md) | 10 min | Pass | https://shorturl.at/4hkpL |
 
 
 

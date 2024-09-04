@@ -1,3 +1,3 @@
 function friend(friends){
-    //your code here
+        return friends.filter(element => element.length === 4)
   }
