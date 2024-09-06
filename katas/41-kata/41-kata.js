@@ -1,3 +1,4 @@
 function minMax(arr){
-    return [0,0]; // fix me!
+    let result = arr.sort((a,b)=>a-b);
+    return [result[0], result[result.length - 1]];
   }

@@ -49,37 +49,44 @@ describe("minMax", () => {
 
 ## Notes
 
-Notes here
+I've seen this before... but I see it clearly now.
 
 ## My solution with comments:
 
 ```js
-
-//My code here
-
+function minMax(arr){
+    let result = arr.sort((a,b)=>a-b); // sort min to max
+    return [result[0], result[result.length - 1]]; // return the first and last element
+  }
 ```
 
 
 ## Results
 
 ```js
-
-//hpefully good results here
-
+Time: 754ms Passed: 4Failed: 0
+Test Results:
+minMax
+should work for [1,2,3,4,5]
+should work for [2334454,5]
+should work for [5]
+should work for random lists
+Completed in 17ms
+You have passed all of the tests! :)
 ```
 
 ## Interesting Kata solution:
-> by *[somebody](LINKHERE)*
+> by *[myTerminal](https://www.codewars.com/users/myTerminal)*
 
 ```js
-
-//interesting solution here
-
+function minMax(arr){
+  return [Math.min.apply(Math, arr), Math.max.apply(Math, arr)];
+}
 ```
 
 ## Notes about the interesting one:
 
-Interesting kata notes here
+This one uses some methods I haven't seen before, I will look into them
 
 ---
 
