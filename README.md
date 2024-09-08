@@ -54,6 +54,6 @@ Kata completion journal repository.
 | 3 Sept 2024 | Descending Order | 7 Kyu | [39-kata.js](./katas/39-kata/39-kata.js) | [39-kata.md](./katas/39-kata/39-kata.md) | 10 min | Pass | https://shorturl.at/lbvKC |
 | 4 Sept 2024 | Friend or Foe? | 7 Kyu | [40-kata.js](./katas/40-kata/40-kata.js) | [40-kata.md](./katas/40-kata/40-kata.md) | 10 min | Pass | https://shorturl.at/4hkpL |
 | 5 Sept 2024 | The highest profit wins! | 7 Kyu | [41-kata.js](./katas/41-kata/41-kata.js) | [41-kata.md](./katas/41-kata/41-kata.md) | 5 min | Pass | https://shorturl.at/kMZRK |
-
+| 7 Sept 2024 | Sum of odd numbers | 7 Kyu | [42-kata.js](./katas/42-kata/42-kata.js) | [42-kata.md](./katas/42-kata/42-kata.md) | In progress | In progress | https://shorturl.at/55RiL |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
