@@ -61,5 +61,6 @@ Kata completion journal repository.
 ## List of NeetCode katas
 
 | 8 Sept 2024 | Duplicate Integer | easy | [44-kata.js](./katas/44-kata/44-kata.js) | [44-kata.md](./katas/44-kata/44-kata.md) | 15 mins | Pass | https://neetcode.io/problems/duplicate-integer |
+| 9 Sept 2024 | Is Anagram | easy | [45-kata.js](./katas/45-kata/45-kata.js) | [45-kata.md](./katas/45-kata/45-kata.md) | 5 mins | Pass | https://neetcode.io/problems/is-anagram |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
