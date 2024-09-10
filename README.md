@@ -62,5 +62,6 @@ Kata completion journal repository.
 
 | 8 Sept 2024 | Duplicate Integer | easy | [44-kata.js](./katas/44-kata/44-kata.js) | [44-kata.md](./katas/44-kata/44-kata.md) | 15 mins | Pass | https://neetcode.io/problems/duplicate-integer |
 | 9 Sept 2024 | Is Anagram | easy | [45-kata.js](./katas/45-kata/45-kata.js) | [45-kata.md](./katas/45-kata/45-kata.md) | 5 mins | Pass | https://neetcode.io/problems/is-anagram |
+| 10 Sept 2024 | Two integers sum | easy | [4664-kata.js](./katas/466-kata/46-kata.js) | [46-kata.md](./katas/46-kata/466-kata.md) | 3 hrs | Pass | https://neetcode.io/problems/two-integer-sum |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
