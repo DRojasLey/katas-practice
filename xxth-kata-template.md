@@ -37,11 +37,11 @@ Notes here
 
 ```js
 
-//hpefully good results here
+//hopefully good results here
 
 ```
 
-## Interesting Kata solution:
+## Solution:
 > by NeetCode *[YouTube](LINKHERE)*
 
 ```js
@@ -50,8 +50,9 @@ Notes here
 
 ```
 
-## Notes about the interesting one:
+## Notes about the Solution:
 
 Interesting kata notes here
+
 
 ---

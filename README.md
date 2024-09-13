@@ -66,7 +66,7 @@ Kata completion journal repository.
 | 10 Sept 2024 | Two integers sum | easy | [46-kata.js](./katas/466-kata/46-kata.js) | [46-kata.md](./katas/46-kata/466-kata.md) | 3 hrs | Pass | https://neetcode.io/problems/two-integer-sum |
 | 11 Sept 2024 | Anagram Groups | medium | [47-kata.js](./katas/47-kata/47-kata.js) | [47-kata.md](./katas/47-kata/47-kata.md) | 2 hrs | Failed | https://neetcode.io/problems/anagram-groups |
 | 12 Sept 2024 | Anagram Groups Second attempt | medium | [48-kata.js](./katas/48-kata/48-kata.js) | [48-kata.md](./katas/48-kata/48-kata.md) | 45 min | Pass | https://neetcode.io/problems/anagram-groups |
-
+| 12 Sept 2024 | Top K Elements in List | medium | [49-kata.js](./katas/49-kata/49-kata.js) | [49-kata.md](./katas/49-kata/49-kata.md) | In progress | In progress | https://neetcode.io/problems/top-k-elements-in-list |
 
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
