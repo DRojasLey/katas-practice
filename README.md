@@ -59,11 +59,13 @@ Kata completion journal repository.
 
 
 ## List of NeetCode katas
-
+| Date | Name | Level | Solution | Notes | Time | Status | Link |
+|--|--|--|--|--|--|--|--|
 | 8 Sept 2024 | Duplicate Integer | easy | [44-kata.js](./katas/44-kata/44-kata.js) | [44-kata.md](./katas/44-kata/44-kata.md) | 15 mins | Pass | https://neetcode.io/problems/duplicate-integer |
 | 9 Sept 2024 | Is Anagram | easy | [45-kata.js](./katas/45-kata/45-kata.js) | [45-kata.md](./katas/45-kata/45-kata.md) | 5 mins | Pass | https://neetcode.io/problems/is-anagram |
 | 10 Sept 2024 | Two integers sum | easy | [46-kata.js](./katas/466-kata/46-kata.js) | [46-kata.md](./katas/46-kata/466-kata.md) | 3 hrs | Pass | https://neetcode.io/problems/two-integer-sum |
 | 11 Sept 2024 | Anagram Groups | medium | [47-kata.js](./katas/47-kata/47-kata.js) | [47-kata.md](./katas/47-kata/47-kata.md) | 2 hrs | Failed | https://neetcode.io/problems/anagram-groups |
+| 12 Sept 2024 | Anagram Groups Second attempt | medium | [48-kata.js](./katas/48-kata/48-kata.js) | [48-kata.md](./katas/48-kata/48-kata.md) | 45 min | Pass | https://neetcode.io/problems/anagram-groups |
 
 
 

@@ -1,6 +1,6 @@
 # XXth Kata -- kataNameHere
 
-by *[usernameHere](LINKHERE)*
+by *[NeetCode](LINKHERE)*
 
 
 ## Task
@@ -42,7 +42,7 @@ Notes here
 ```
 
 ## Interesting Kata solution:
-> by *[somebody](LINKHERE)*
+> by NeetCode *[YouTube](LINKHERE)*
 
 ```js
 
