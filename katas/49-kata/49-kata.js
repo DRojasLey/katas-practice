@@ -1,18 +1,34 @@
-function topKFrequent(nums, k) {
+class Solution {
+    /**
+     * @param {number[]} nums
+     * @param {number} k
+     * @return {number[]}
+     */
+    topKFrequent( nums , k ) {
+    let sorting = [];
     let result = [];
-    const sorted = nums.sort().reverse();
+    let processingObj = {};
+    nums.forEach( element => {
+        if ( !processingObj[element] ){
+            processingObj[element] = 0;
+            processingObj[element]++
+        } else if (processingObj[element]) {
+            processingObj[element]++
+        };
+    });
 
-    result.push(sorted[0]);
-    for (let index = 0; result.length < k ; index++) {
-        const element = sorted[index];
-        if (element != sorted[0]) {
-            result.push(element);
-        }
+    for ( let num1 in processingObj ){
+        sorting.push([ num1 , processingObj[num1]]);
+    };
+
+    sorting.sort(( a , b )=>{
+        return b[1]-a[1];
+    })
+
+    for ( let index = 0 ; index < k ; index++ ) {
+        result.push(sorting[index][0]);
     }
+
     return result
 };
-
-
-//This initial solution does not work because it will fail when the most repeated numbers have lower values than the less repeated.
-
-//We need to instead look for a way to count the frequency, not the value of the numbers
+}

@@ -12,5 +12,6 @@ function groupAnagrams(strs) {
     const result = Object.values(keyIndexRelations).map(indexes => {
         return indexes.map(index => strs[index]);
     });
+
     return result;
 };
