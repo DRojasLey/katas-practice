@@ -31,7 +31,7 @@ Courtesy of projecteuler.net (Problem 1)
 const { assert } = require("chai")
 
 function test(n, expected) {
-  it(`n=${n}`, () => { 
+  it(`n=${n}`, () => {
     let actual = solution(n)
     assert.strictEqual(actual, expected)
   })
