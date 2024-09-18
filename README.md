@@ -71,6 +71,7 @@ Kata completion journal repository.
 | 15 Sept 2024 | Buy and Sell Crypto | easy | [51-kata.js](./katas/51-kata/51-kata.js) | [51-kata.md](./katas/51-kata/51-kata.md) | 20 min | Pass | https://neetcode.io/problems/buy-and-sell-crypto |
 | 16 Sept 2024 | Is Palindrome | easy | [52-kata.js](./katas/52-kata/52-kata.js) | [52-kata.md](./katas/52-kata/52-kata.md) | 50 min | Pass | https://neetcode.io/problems/is-palindrome |
 | 17 Sept 2024 | Validate Parentheses | easy | [53-kata.js](./katas/53-kata/53-kata.js) | [53-kata.md](./katas/53-kata/53-kata.md) | 3 hrs | Pass | https://neetcode.io/problems/validate-parentheses |
+| 18 Sept 2024 | Binary search | easy | [54-kata.js](./katas/54-kata/54-kata.js) | [54-kata.md](./katas/54-kata/54-kata.md) | 5 min | Pass | https://neetcode.io/problems/binary-search |
 
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
