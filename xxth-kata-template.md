@@ -42,7 +42,7 @@ Notes here
 ```
 
 ## Solution:
-> by NeetCode *[YouTube](LINKHERE)*
+> by NeetCode at *[YouTube](LINKHERE)*
 
 ```js
 
