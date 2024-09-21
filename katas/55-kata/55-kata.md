@@ -117,6 +117,6 @@ class Solution {
 
 ## Notes about the Solution:
 
-As expected this is wa more  simpler and uses very clever ways of working the solution out
+As expected this is was simpler and uses very clever ways of working the solution out
 
 ---
