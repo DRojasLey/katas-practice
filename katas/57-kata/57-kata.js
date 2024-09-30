@@ -1,21 +1,26 @@
-class Solution {
-    /**
-     * @param {character[][]} board
-     * @return {boolean}
-     */
-    isValidSudoku(board) {
+function isValidSudoku(board) {
+    //create the tracking sets and fill them with zeroes using map arrow functions
+    let rows = new Array(9).fill(0).map(() => new Set());
+    let cols = new Array(9).fill(0).map(() => new Set());
+    let boxes = new Array(9).fill(0).map(() => new Set());
 
-        board.forEach(subArray => {
-            let testingArray = [];
-            const testingSet = new Set;
-            subArray.forEach(element => {
-                if (element !== '.') testingArray.push(element)
-            });
-            testingArray.forEach(number =>{
-                testingSet.add(number)
-            })
-            if (testingSet.size !== testingArray.length) return false ;
-        });
-        // Up top this point everything works
+    for (let i = 0; i < 9; i++) {
+        for (let j = 0; j < 9; j++) {
+            let currentValue = board[i][j];
+
+            if (currentValue === '.') continue;
+
+            if (rows[i].has(currentValue)) return false;
+            rows[i].add(currentValue);
+
+            if (cols[j].has(currentValue)) return false;
+            cols[j].add(currentValue);
+
+            let boxIndex = Math.floor(i / 3) * 3 + Math.floor(j / 3);
+            if (boxes[boxIndex].has(currentValue)) return false;
+            boxes[boxIndex].add(currentValue);
+        }
     }
+
+    return true;
 }
