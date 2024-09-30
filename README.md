@@ -74,5 +74,8 @@ Kata completion journal repository.
 | 18 Sept 2024 | Binary search | easy | [54-kata.js](./katas/54-kata/54-kata.js) | [54-kata.md](./katas/54-kata/54-kata.md) | 5 min | Pass | https://neetcode.io/problems/binary-search |
 | 20 Sept 2024 | Products of Array Discluding Self | medium | [55-kata.js](./katas/55-kata/55-kata.js) | [55-kata.md](./katas/55-kata/55-kata.md) | 2 hrs | Pass | https://neetcode.io/problems/products-of-array-discluding-self |
 | 24 Sept 2024 | Longest Consecutive Sequence | Hard | [56-kata.js](./katas/56-kata/56-kata.js) | [56-kata.md](./katas/56-kata/56-kata.md) | 8 hrs | Pass | https://neetcode.io/problems/longest-consecutive-sequence |
+| 30 Sept 2024 | Valid Sudoku | Medium | [57-kata.js](./katas/57-kata/57-kata.js) | [57-kata.md](./katas/57-kata/57-kata.md) | 2 days | Pass | https://neetcode.io/problems/valid-sudoku |
+
+
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)

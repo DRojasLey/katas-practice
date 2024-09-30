@@ -41,7 +41,7 @@ Output: 7
 
 This kata has taken me some days to finish.
 
-At the end I have followed a tutorial 
+At the end I have followed a tutorial
 
 
 ## My solution with comments:
