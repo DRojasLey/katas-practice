@@ -76,7 +76,7 @@ Kata completion journal repository.
 | 24 Sept 2024 | Longest Consecutive Sequence | Hard | [56-kata.js](./katas/56-kata/56-kata.js) | [56-kata.md](./katas/56-kata/56-kata.md) | 8 hrs | Pass | https://neetcode.io/problems/longest-consecutive-sequence |
 | 30 Sept 2024 | Valid Sudoku | Medium | [57-kata.js](./katas/57-kata/57-kata.js) | [57-kata.md](./katas/57-kata/57-kata.md) | 2 days | Pass | https://neetcode.io/problems/valid-sudoku |
 | Oct 1 2024 | Two Integer Sum II | Medium | [58-kata.js](./katas/58-kata/58-kata.js) | [58-kata.md](./katas/58-kata/58-kata.md) | 20 mins | Pass | https://neetcode.io/problems/two-integer-sum-ii |
-
+| Oct 3 2024 | Three Integer Sum | Medium | [59-kata.js](./katas/59-kata/59-kata.js) | [59-kata.md](./katas/59-kata/59-kata.md) | 90 mins | Pass | https://neetcode.io/problems/three-integer-sum |
 
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
