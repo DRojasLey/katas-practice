@@ -79,4 +79,5 @@ Kata completion journal repository.
 | Oct 3 2024 | Three Integer Sum | Medium | [59-kata.js](./katas/59-kata/59-kata.js) | [59-kata.md](./katas/59-kata/59-kata.md) | 90 mins | Pass | https://neetcode.io/problems/three-integer-sum |
 | Oct 4 2024 | Max Water Container | Medium | [60-kata.js](./katas/60-kata/60-kata.js) | [60-kata.md](./katas/60-kata/60-kata.md) | 40 mins | Pass | https://neetcode.io/problems/max-water-container |
 
+
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
