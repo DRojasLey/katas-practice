@@ -79,5 +79,6 @@ Kata completion journal repository.
 | Oct 3 2024 | Three Integer Sum | Medium | [59-kata.js](./katas/59-kata/59-kata.js) | [59-kata.md](./katas/59-kata/59-kata.md) | 90 mins | Pass | https://neetcode.io/problems/three-integer-sum |
 | Oct 4 2024 | Max Water Container | Medium | [60-kata.js](./katas/60-kata/60-kata.js) | [60-kata.md](./katas/60-kata/60-kata.md) | 40 mins | Pass | https://neetcode.io/problems/max-water-container |
 | Oct 5 2024 | Trapping Rain Water | Hard | [61-kata.js](./katas/61-kata/61-kata.js) | [61-kata.md](./katas/61-kata/61-kata.md) | 4 hrs | Pass | https://neetcode.io/problems/trapping-rain-water |
+| Oct 7 2024 | Longest Substring Without Duplicates | medium | [62-kata.js](./katas/62-kata/62-kata.js) | [62-kata.md](./katas/62-kata/62-kata.md) | 30 mins | Pass | https://neetcode.io/problems/longest-substring-without-duplicates |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
