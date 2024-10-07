@@ -78,6 +78,6 @@ Kata completion journal repository.
 | Oct 1 2024 | Two Integer Sum II | Medium | [58-kata.js](./katas/58-kata/58-kata.js) | [58-kata.md](./katas/58-kata/58-kata.md) | 20 mins | Pass | https://neetcode.io/problems/two-integer-sum-ii |
 | Oct 3 2024 | Three Integer Sum | Medium | [59-kata.js](./katas/59-kata/59-kata.js) | [59-kata.md](./katas/59-kata/59-kata.md) | 90 mins | Pass | https://neetcode.io/problems/three-integer-sum |
 | Oct 4 2024 | Max Water Container | Medium | [60-kata.js](./katas/60-kata/60-kata.js) | [60-kata.md](./katas/60-kata/60-kata.md) | 40 mins | Pass | https://neetcode.io/problems/max-water-container |
-| Oct 5 2024 | Trapping Rain Water | Hard | [61-kata.js](./katas/61-kata/61-kata.js) | [61-kata.md](./katas/61-kata/61-kata.md) | In progress | In progress | https://neetcode.io/problems/trapping-rain-water |
+| Oct 5 2024 | Trapping Rain Water | Hard | [61-kata.js](./katas/61-kata/61-kata.js) | [61-kata.md](./katas/61-kata/61-kata.md) | 4 hrs | Pass | https://neetcode.io/problems/trapping-rain-water |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
