@@ -81,7 +81,7 @@ Kata completion journal repository.
 | Oct 5 2024 | Trapping Rain Water | Hard | [61-kata.js](./katas/61-kata/61-kata.js) | [61-kata.md](./katas/61-kata/61-kata.md) | 4 hrs | Pass | https://neetcode.io/problems/trapping-rain-water |
 | Oct 7 2024 | Longest Substring Without Duplicates | medium | [62-kata.js](./katas/62-kata/62-kata.js) | [62-kata.md](./katas/62-kata/62-kata.md) | 30 mins | Pass | https://neetcode.io/problems/longest-substring-without-duplicates |
 | Oct 8 2024 | Longest Repeating Substring With Replacement | medium | [63-kata.js](./katas/63-kata/63-kata.js) | [63-kata.md](./katas/63-kata/63-kata.md) | 1 hrs | Pass | https://neetcode.io/problems/longest-repeating-substring-with-replacement |
-| Oct 9 2024 | Permutation String | medium | [64-kata.js](./katas/64-kata/64-kata.js) | [64-kata.md](./katas/64-kata/64-kata.md) | In progress | In progress | https://neetcode.io/problems/permutation-string |
+| Oct 9 - Oct 24 2024 | Permutation String | medium | [64-kata.js](./katas/64-kata/64-kata.js) | [64-kata.md](./katas/64-kata/64-kata.md) | 20 hrs | Pass | https://neetcode.io/problems/permutation-string |
 
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
