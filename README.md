@@ -83,5 +83,5 @@ Kata completion journal repository.
 | Oct 8 2024 | Longest Repeating Substring With Replacement | medium | [63-kata.js](./katas/63-kata/63-kata.js) | [63-kata.md](./katas/63-kata/63-kata.md) | 1 hrs | Pass | https://neetcode.io/problems/longest-repeating-substring-with-replacement |
 | Oct 9 - Oct 24 2024 | Permutation String | medium | [64-kata.js](./katas/64-kata/64-kata.js) | [64-kata.md](./katas/64-kata/64-kata.md) | 20 hrs | Pass | https://neetcode.io/problems/permutation-string |
 | Oct 25 2024 | Minimum Stack | medium | [65-kata.js](./katas/65-kata/65-kata.js) | [65-kata.md](./katas/65-kata/65-kata.md) | 1 hrs | Pass | https://neetcode.io/problems/minimum-stack |
-
+| Oct 26 2024 | Evaluate Reverse Polish Notation | medium | [66-kata.js](./katas/66-kata/66-kata.js) | [66-kata.md](./katas/66-kata/66-kata.md) | In Progress | In progress | https://neetcode.io/problems/evaluate-reverse-polish-notation |
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
