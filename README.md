@@ -85,7 +85,7 @@ Kata completion journal repository.
 | Oct 25 2024 | Minimum Stack | medium | [65-kata.js](./katas/65-kata/65-kata.js) | [65-kata.md](./katas/65-kata/65-kata.md) | 1 hrs | Pass | https://neetcode.io/problems/minimum-stack |
 | Oct 26 2024 | Evaluate Reverse Polish Notation | medium | [66-kata.js](./katas/66-kata/66-kata.js) | [66-kata.md](./katas/66-kata/66-kata.md) |15 min | Pass | https://neetcode.io/problems/evaluate-reverse-polish-notation |
 | Oct 27 2024 | Generate Parentheses | medium | [67-kata.js](./katas/67-kata/67-kata.js) | [67-kata.md](./katas/67-kata/67-kata.md) | 1 hrs | Pass | https://neetcode.io/problems/generate-parentheses |
-| Oct 28 2024 | Daily Temperatures | medium | [68-kata.js](./katas/68-kata/68-kata.js) | [68-kata.md](./katas/68-kata/68-kata.md) | In Progress | In Progress | https://neetcode.io/problems/daily-temperatures |
-
+| Oct 28 2024 | Daily Temperatures | medium | [68-kata.js](./katas/68-kata/68-kata.js) | [68-kata.md](./katas/68-kata/68-kata.md) | 30 mins | Pass | https://neetcode.io/problems/daily-temperatures |
+| Oct 29 2024 | Car Fleet | medium | [69-kata.js](./katas/69-kata/69-kata.js) | [69-kata.md](./katas/69-kata/69-kata.md) | 40 mins | Pass | https://neetcode.io/problems/car-fleet |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
