@@ -6,7 +6,7 @@ by *[NeetCode](https://neetcode.io/problems/search-2d-matrix)*
 
 ## Task
 
-### c
+### Search 2D Matrix
 
 
 You are given an m x n 2-D integer array matrix and an integer target.
