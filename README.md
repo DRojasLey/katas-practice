@@ -87,5 +87,7 @@ Kata completion journal repository.
 | Oct 27 2024 | Generate Parentheses | medium | [67-kata.js](./katas/67-kata/67-kata.js) | [67-kata.md](./katas/67-kata/67-kata.md) | 1 hrs | Pass | https://neetcode.io/problems/generate-parentheses |
 | Oct 28 2024 | Daily Temperatures | medium | [68-kata.js](./katas/68-kata/68-kata.js) | [68-kata.md](./katas/68-kata/68-kata.md) | 30 mins | Pass | https://neetcode.io/problems/daily-temperatures |
 | Oct 29 2024 | Car Fleet | medium | [69-kata.js](./katas/69-kata/69-kata.js) | [69-kata.md](./katas/69-kata/69-kata.md) | 40 mins | Pass | https://neetcode.io/problems/car-fleet |
+| Oct 30 2024 | Search 2D Matrix | medium | [70-kata.js](./katas/70-kata/70-kata.js) | [70-kata.md](./katas/70-kata/70-kata.md) | 1 hrs | Pass | https://neetcode.io/problems/search-2d-matrix |
+
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
