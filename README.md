@@ -89,6 +89,6 @@ Kata completion journal repository.
 | Oct 29 2024 | Car Fleet | medium | [69-kata.js](./katas/69-kata/69-kata.js) | [69-kata.md](./katas/69-kata/69-kata.md) | 40 min | Pass | https://neetcode.io/problems/car-fleet |
 | Oct 30 2024 | Search 2D Matrix | medium | [70-kata.js](./katas/70-kata/70-kata.js) | [70-kata.md](./katas/70-kata/70-kata.md) | 1 hrs | Pass | https://neetcode.io/problems/search-2d-matrix |
 | Oct 31 2024 | Eating Bananas | medium | [71-kata.js](./katas/71-kata/71-kata.js) | [71-kata.md](./katas/71-kata/71-kata.md) | 1:40 hrs | Pass | https://neetcode.io/problems/eating-bananas |
-| Nov 1 2024 | Find Minimum in Rotated Sorted Array | medium | [71-kata.js](./katas/71-kata/71-kata.js) | [71-kata.md](./katas/71-kata/71-kata.md) | 25 min  | Pass | https://neetcode.io/problems/eating-bananas |
+| Nov 1 2024 | Find Minimum in Rotated Sorted Array | medium | [72-kata.js](./katas/72-kata/72-kata.js) | [72-kata.md](./katas/72-kata/72-kata.md) | 25 min  | Pass | https://neetcode.io/problems/eating-bananas |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
