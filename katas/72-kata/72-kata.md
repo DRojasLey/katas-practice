@@ -49,7 +49,7 @@ Output: 4
 
 ## Notes
 
-This is not an efficient solution, but this is the easiest way to solve it I came up with, intead the solution is intended to use binary search:
+This is not an efficient solution, but this is the easiest way to solve it I came up with, instead the solution is intended to use binary search:
 
 ```js
 
@@ -122,6 +122,6 @@ class Solution {
 
 ## Notes about the Solution:
 
-This a very clear example of how the binary search works
+This a very clear example of how the binary search works, can be considered the literal clear algorithm
 
 ---
