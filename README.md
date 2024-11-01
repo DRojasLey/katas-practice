@@ -39,7 +39,7 @@ Kata completion journal repository.
 | 19 Aug 2024 | Find the unique number | 6 Kyu | [24-kata.js](./katas/24-kata/24-kata.js) | [24-kata.md](./katas/24-kata/24-kata.md) | 20 min | Pass | https://shorturl.at/VWpdp |
 | 20 Aug 2024 | Total amount of points | 8 Kyu | [25-kata.js](./katas/25-kata/25-kata.js) | [25-kata.md](./katas/25-kata/25-kata.md) | 20 min | Pass | https://shorturl.at/RsONC |
 | 21 Aug 2024 | Reverse words | 7 Kyu | [26-kata.js](./katas/26-kata/26-kata.js) | [26-kata.md](./katas/26-kata/26-kata.md) | 40 min | Pass | https://shorturl.at/Dhcc5 |
-| 22 Aug 2024 | You're a square! | 7 Kyu | [27-kata.js](./katas/27-kata/27-kata.js) | [27-kata.md](./katas/27-kata/27-kata.md) | 30 mins | Pass | https://shorturl.at/eJ84u|
+| 22 Aug 2024 | You're a square! | 7 Kyu | [27-kata.js](./katas/27-kata/27-kata.js) | [27-kata.md](./katas/27-kata/27-kata.md) | 30 min | Pass | https://shorturl.at/eJ84u|
 | 23 Aug 2024 | String ends with? | 7 Kyu | [28-kata.js](./katas/28-kata/28-kata.js) | [28-kata.md](./katas/28-kata/28-kata.md) | 5 min | Pass | https://shorturl.at/VMz2e |
 | 24 Aug 2024 | Extract the domain name from a URL | 5 Kyu | [29-kata.js](./katas/29-kata/29-kata.js) | [29-kata.md](./katas/29-kata/29-kata.md) | 1 hrs | Pass  | https://shorturl.at/lYDLD |
 | 25 Aug 2024 | Detect Pangram | 6 Kyu | [30-kata.js](./katas/30-kata/30-kata.js) | [30-kata.md](./katas/30-kata/30-kata.md) | 1 hrs | Pass  | https://shorturl.at/7Kg3w |
@@ -48,21 +48,21 @@ Kata completion journal repository.
 | 28 Aug 2024 | Exes and Ohs | 7 Kyu | [33-kata.js](./katas/33-kata/33-kata.js) | [33-kata.md](./katas/33-kata/33-kata.md) | 20 min | Pass | https://shorturl.at/d0kGl |
 | 29 Aug 2024 | Growth of a Population | 7 Kyu | [34-kata.js](./katas/34-kata/34-kata.js) | [34-kata.md](./katas/34-kata/34-kata.md) | 20 min | Pass | https://shorturl.at/nzG3y |
 | 30 Aug 2024 | Printer Errors | 7 Kyu | [35-kata.js](./katas/35-kata/35-kata.js) | [35-kata.md](./katas/35-kata/35-kata.md) | 15 min | Pass | https://shorturl.at/7PtUp |
-| 31 Aug 2024 | Sum of the first nth term of Series | 7 Kyu | [36-kata.js](./katas/36-kata/36-kata.js) | [36-kata.md](./katas/36-kata/36-kata.md) | 40 mins | Pass | https://shorturl.at/9ThfM |
+| 31 Aug 2024 | Sum of the first nth term of Series | 7 Kyu | [36-kata.js](./katas/36-kata/36-kata.js) | [36-kata.md](./katas/36-kata/36-kata.md) | 40 min | Pass | https://shorturl.at/9ThfM |
 | 1 Sept 2024 | Who likes it? | 7 Kyu | [37-kata.js](./katas/37-kata/37-kata.js) | [37-kata.md](./katas/37-kata/37-kata.md) | 15 min | Pass | https://shorturl.at/yog3S |
 | 2 Sept 2024 | Sort the odd | 6 Kyu | [38-kata.js](./katas/38-kata/38-kata.js) | [38-kata.md](./katas/38-kata/38-kata.md) | 1 hrs | Pass | https://shorturl.at/b0dJo |
 | 3 Sept 2024 | Descending Order | 7 Kyu | [39-kata.js](./katas/39-kata/39-kata.js) | [39-kata.md](./katas/39-kata/39-kata.md) | 10 min | Pass | https://shorturl.at/lbvKC |
 | 4 Sept 2024 | Friend or Foe? | 7 Kyu | [40-kata.js](./katas/40-kata/40-kata.js) | [40-kata.md](./katas/40-kata/40-kata.md) | 10 min | Pass | https://shorturl.at/4hkpL |
 | 5 Sept 2024 | The highest profit wins! | 7 Kyu | [41-kata.js](./katas/41-kata/41-kata.js) | [41-kata.md](./katas/41-kata/41-kata.md) | 5 min | Pass | https://shorturl.at/kMZRK |
 | 6 Sept 2024 | Sum of odd numbers | 7 Kyu | [42-kata.js](./katas/42-kata/42-kata.js) | [42-kata.md](./katas/42-kata/42-kata.md) | 5 minutes | Pass | https://shorturl.at/55RiL |
-| 7 Sept 2024 | Isograms | 7 Kyu | [43-kata.js](./katas/43-kata/43-kata.js) | [43-kata.md](./katas/43-kata/43-kata.md) | 10 mins | Pass | https://shorturl.at/EnDB7 |
+| 7 Sept 2024 | Isograms | 7 Kyu | [43-kata.js](./katas/43-kata/43-kata.js) | [43-kata.md](./katas/43-kata/43-kata.md) | 10 min | Pass | https://shorturl.at/EnDB7 |
 
 
 ## List of NeetCode katas
 | Date | Name | Level | Solution | Notes | Time | Status | Link |
 |--|--|--|--|--|--|--|--|
-| 8 Sept 2024 | Duplicate Integer | easy | [44-kata.js](./katas/44-kata/44-kata.js) | [44-kata.md](./katas/44-kata/44-kata.md) | 15 mins | Pass | https://neetcode.io/problems/duplicate-integer |
-| 9 Sept 2024 | Is Anagram | easy | [45-kata.js](./katas/45-kata/45-kata.js) | [45-kata.md](./katas/45-kata/45-kata.md) | 5 mins | Pass | https://neetcode.io/problems/is-anagram |
+| 8 Sept 2024 | Duplicate Integer | easy | [44-kata.js](./katas/44-kata/44-kata.js) | [44-kata.md](./katas/44-kata/44-kata.md) | 15 min | Pass | https://neetcode.io/problems/duplicate-integer |
+| 9 Sept 2024 | Is Anagram | easy | [45-kata.js](./katas/45-kata/45-kata.js) | [45-kata.md](./katas/45-kata/45-kata.md) | 5 min | Pass | https://neetcode.io/problems/is-anagram |
 | 10 Sept 2024 | Two integers sum | easy | [46-kata.js](./katas/466-kata/46-kata.js) | [46-kata.md](./katas/46-kata/466-kata.md) | 3 hrs | Pass | https://neetcode.io/problems/two-integer-sum |
 | 11 Sept 2024 | Anagram Groups | medium | [47-kata.js](./katas/47-kata/47-kata.js) | [47-kata.md](./katas/47-kata/47-kata.md) | 2 hrs | Failed | https://neetcode.io/problems/anagram-groups |
 | 12 Sept 2024 | Anagram Groups Second attempt | medium | [48-kata.js](./katas/48-kata/48-kata.js) | [48-kata.md](./katas/48-kata/48-kata.md) | 45 min | Pass | https://neetcode.io/problems/anagram-groups |
@@ -75,19 +75,20 @@ Kata completion journal repository.
 | 20 Sept 2024 | Products of Array Discluding Self | medium | [55-kata.js](./katas/55-kata/55-kata.js) | [55-kata.md](./katas/55-kata/55-kata.md) | 2 hrs | Pass | https://neetcode.io/problems/products-of-array-discluding-self |
 | 24 Sept 2024 | Longest Consecutive Sequence | Hard | [56-kata.js](./katas/56-kata/56-kata.js) | [56-kata.md](./katas/56-kata/56-kata.md) | 8 hrs | Pass | https://neetcode.io/problems/longest-consecutive-sequence |
 | 30 Sept 2024 | Valid Sudoku | Medium | [57-kata.js](./katas/57-kata/57-kata.js) | [57-kata.md](./katas/57-kata/57-kata.md) | 2 days | Pass | https://neetcode.io/problems/valid-sudoku |
-| Oct 1 2024 | Two Integer Sum II | Medium | [58-kata.js](./katas/58-kata/58-kata.js) | [58-kata.md](./katas/58-kata/58-kata.md) | 20 mins | Pass | https://neetcode.io/problems/two-integer-sum-ii |
-| Oct 3 2024 | Three Integer Sum | Medium | [59-kata.js](./katas/59-kata/59-kata.js) | [59-kata.md](./katas/59-kata/59-kata.md) | 90 mins | Pass | https://neetcode.io/problems/three-integer-sum |
-| Oct 4 2024 | Max Water Container | Medium | [60-kata.js](./katas/60-kata/60-kata.js) | [60-kata.md](./katas/60-kata/60-kata.md) | 40 mins | Pass | https://neetcode.io/problems/max-water-container |
+| Oct 1 2024 | Two Integer Sum II | Medium | [58-kata.js](./katas/58-kata/58-kata.js) | [58-kata.md](./katas/58-kata/58-kata.md) | 20 min | Pass | https://neetcode.io/problems/two-integer-sum-ii |
+| Oct 3 2024 | Three Integer Sum | Medium | [59-kata.js](./katas/59-kata/59-kata.js) | [59-kata.md](./katas/59-kata/59-kata.md) | 90 min | Pass | https://neetcode.io/problems/three-integer-sum |
+| Oct 4 2024 | Max Water Container | Medium | [60-kata.js](./katas/60-kata/60-kata.js) | [60-kata.md](./katas/60-kata/60-kata.md) | 40 min | Pass | https://neetcode.io/problems/max-water-container |
 | Oct 5 2024 | Trapping Rain Water | Hard | [61-kata.js](./katas/61-kata/61-kata.js) | [61-kata.md](./katas/61-kata/61-kata.md) | 4 hrs | Pass | https://neetcode.io/problems/trapping-rain-water |
-| Oct 7 2024 | Longest Substring Without Duplicates | medium | [62-kata.js](./katas/62-kata/62-kata.js) | [62-kata.md](./katas/62-kata/62-kata.md) | 30 mins | Pass | https://neetcode.io/problems/longest-substring-without-duplicates |
+| Oct 7 2024 | Longest Substring Without Duplicates | medium | [62-kata.js](./katas/62-kata/62-kata.js) | [62-kata.md](./katas/62-kata/62-kata.md) | 30 min | Pass | https://neetcode.io/problems/longest-substring-without-duplicates |
 | Oct 8 2024 | Longest Repeating Substring With Replacement | medium | [63-kata.js](./katas/63-kata/63-kata.js) | [63-kata.md](./katas/63-kata/63-kata.md) | 1 hrs | Pass | https://neetcode.io/problems/longest-repeating-substring-with-replacement |
 | Oct 9 - Oct 24 2024 | Permutation String | medium | [64-kata.js](./katas/64-kata/64-kata.js) | [64-kata.md](./katas/64-kata/64-kata.md) | 20 hrs | Pass | https://neetcode.io/problems/permutation-string |
 | Oct 25 2024 | Minimum Stack | medium | [65-kata.js](./katas/65-kata/65-kata.js) | [65-kata.md](./katas/65-kata/65-kata.md) | 1 hrs | Pass | https://neetcode.io/problems/minimum-stack |
 | Oct 26 2024 | Evaluate Reverse Polish Notation | medium | [66-kata.js](./katas/66-kata/66-kata.js) | [66-kata.md](./katas/66-kata/66-kata.md) |15 min | Pass | https://neetcode.io/problems/evaluate-reverse-polish-notation |
 | Oct 27 2024 | Generate Parentheses | medium | [67-kata.js](./katas/67-kata/67-kata.js) | [67-kata.md](./katas/67-kata/67-kata.md) | 1 hrs | Pass | https://neetcode.io/problems/generate-parentheses |
-| Oct 28 2024 | Daily Temperatures | medium | [68-kata.js](./katas/68-kata/68-kata.js) | [68-kata.md](./katas/68-kata/68-kata.md) | 30 mins | Pass | https://neetcode.io/problems/daily-temperatures |
-| Oct 29 2024 | Car Fleet | medium | [69-kata.js](./katas/69-kata/69-kata.js) | [69-kata.md](./katas/69-kata/69-kata.md) | 40 mins | Pass | https://neetcode.io/problems/car-fleet |
+| Oct 28 2024 | Daily Temperatures | medium | [68-kata.js](./katas/68-kata/68-kata.js) | [68-kata.md](./katas/68-kata/68-kata.md) | 30 min | Pass | https://neetcode.io/problems/daily-temperatures |
+| Oct 29 2024 | Car Fleet | medium | [69-kata.js](./katas/69-kata/69-kata.js) | [69-kata.md](./katas/69-kata/69-kata.md) | 40 min | Pass | https://neetcode.io/problems/car-fleet |
 | Oct 30 2024 | Search 2D Matrix | medium | [70-kata.js](./katas/70-kata/70-kata.js) | [70-kata.md](./katas/70-kata/70-kata.md) | 1 hrs | Pass | https://neetcode.io/problems/search-2d-matrix |
 | Oct 31 2024 | Eating Bananas | medium | [71-kata.js](./katas/71-kata/71-kata.js) | [71-kata.md](./katas/71-kata/71-kata.md) | 1:40 hrs | Pass | https://neetcode.io/problems/eating-bananas |
+| Nov 1 2024 | Find Minimum in Rotated Sorted Array | medium | [71-kata.js](./katas/71-kata/71-kata.js) | [71-kata.md](./katas/71-kata/71-kata.md) | 25 min  | Pass | https://neetcode.io/problems/eating-bananas |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
