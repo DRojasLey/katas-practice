@@ -90,5 +90,6 @@ Kata completion journal repository.
 | Oct 30 2024 | Search 2D Matrix | medium | [70-kata.js](./katas/70-kata/70-kata.js) | [70-kata.md](./katas/70-kata/70-kata.md) | 1 hrs | Pass | https://neetcode.io/problems/search-2d-matrix |
 | Oct 31 2024 | Eating Bananas | medium | [71-kata.js](./katas/71-kata/71-kata.js) | [71-kata.md](./katas/71-kata/71-kata.md) | 1:40 hrs | Pass | https://neetcode.io/problems/eating-bananas |
 | Nov 1 2024 | Find Minimum in Rotated Sorted Array | medium | [72-kata.js](./katas/72-kata/72-kata.js) | [72-kata.md](./katas/72-kata/72-kata.md) | 25 min  | Pass | https://neetcode.io/problems/eating-bananas |
+| Nov 2 2024 | Find Target in Rotated Sorted Array | medium | [73-kata.js](./katas/73-kata/73-kata.js) | [73-kata.md](./katas/73-kata/73-kata.md) | 25 min  | Pass | https://neetcode.io/problems/find-target-in-rotated-sorted-array |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
