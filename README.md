@@ -92,7 +92,7 @@ Kata completion journal repository.
 | Nov 1 2024 | Find Minimum in Rotated Sorted Array | medium | [72-kata.js](./katas/72-kata/72-kata.js) | [72-kata.md](./katas/72-kata/72-kata.md) | 25 min  | Pass | https://neetcode.io/problems/eating-bananas |
 | Nov 2 2024 | Find Target in Rotated Sorted Array | medium | [73-kata.js](./katas/73-kata/73-kata.js) | [73-kata.md](./katas/73-kata/73-kata.md) | 25 min  | Pass | https://neetcode.io/problems/find-target-in-rotated-sorted-array |
 | Nov 5 2024 | Time Based Key-Value Store | medium | [74-kata.js](./katas/74-kata/74-kata.js) | [74-kata.md](./katas/74-kata/74-kata.md) | 35 min | Studied | https://neetcode.io/problems/time-based-key-value-store |
-
+| Nov 6 2024 | Reverse a linked list | Easy | [75-kata.js](./katas/75-kata/75-kata.js) | [75-kata.md](./katas/75-kata/75-kata.md) | 30 mins | Studied | https://neetcode.io/problems/reverse-a-linked-list |
 
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
