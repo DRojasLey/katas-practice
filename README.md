@@ -96,6 +96,7 @@ Kata completion journal repository.
 
 ## Codewars Katas 2025
 | Date | Name | Level | Solution | Notes | Time | Status | Link |
+|--|--|--|--|--|--|--|--|
 | May 1 2025 | Convert a Number to a String! | 8-kyu | [76-kata.js](./katas/76-kata/65-kata.js) | [76-kata.md](./katas/76-kata/76-kata.md) | 3 mins | Pass | https://www.codewars.com/kata/5265326f5fda8eb1160004c8/train/javascript |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
