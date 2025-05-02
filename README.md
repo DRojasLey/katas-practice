@@ -94,7 +94,8 @@ Kata completion journal repository.
 | Nov 5 2024 | Time Based Key-Value Store | medium | [74-kata.js](./katas/74-kata/74-kata.js) | [74-kata.md](./katas/74-kata/74-kata.md) | 35 min | Studied | https://neetcode.io/problems/time-based-key-value-store |
 | Nov 6 2024 | Reverse a linked list | Easy | [75-kata.js](./katas/75-kata/75-kata.js) | [75-kata.md](./katas/75-kata/75-kata.md) | 30 mins | Studied | https://neetcode.io/problems/reverse-a-linked-list |
 
-Codewars Katas 2025
+## Codewars Katas 2025
+
 | May 1 2025 | Convert a Number to a String! | 8-kyu | [76-kata.js](./katas/76-kata/65-kata.js) | [76-kata.md](./katas/76-kata/76-kata.md) | 3 mins | Pass | https://www.codewars.com/kata/5265326f5fda8eb1160004c8/train/javascript |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
