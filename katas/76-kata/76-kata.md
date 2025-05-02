@@ -61,7 +61,7 @@ You have passed all of the tests! :)
 ```
 
 ## Solution:
-> by NeetCode at *[YouTube](LINKHERE)*
+> by shadowmanos at *[Codewars](https://www.codewars.com/users/shadowmanos)*
 
 ```js
 
